@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-labelledby="t d">
+  <title id="t">Smart Parking Gate</title>
+  <desc id="d">RFID gate with live slot tracking and a web dashboard. Illustration of a parking gate lifting its barrier for an approaching car after an RFID tap.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14100A"/><stop offset="0.6" stop-color="#14100A"/><stop offset="1" stop-color="#3A2605"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="880" cy="77" r="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#B45309" stop-opacity="0.5"/><stop offset="1" stop-color="#B45309" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#F5D08A" opacity="0.09"/></pattern>
+    <clipPath id="clip"><rect width="1000" height="220" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; } .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .t { fill: #FBF3E4; } .m { fill: #C2B193; } .a { fill: #F5B13D; }
+    .ln { fill: none; stroke: #8A6417; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .la { fill: none; stroke: #F5B13D; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .sh { fill: #1C160C; stroke: #8A6417; stroke-width: 2; stroke-linejoin: round; }
+    
+    .arm { transform-box: fill-box; transform-origin: 4px 50%; animation: lift 6s ease-in-out infinite; }
+    .wave { fill: none; stroke: #F5B13D; stroke-width: 2.5; stroke-linecap: round; opacity: 0; animation: tap 6s linear infinite; }
+    .w2 { animation-delay: 0.15s; } .w3 { animation-delay: 0.3s; }
+    .car { animation: drive 6s ease-in-out infinite; }
+    @keyframes lift { 0%, 18% { transform: rotate(0deg); } 34%, 78% { transform: rotate(-50deg); } 94%, 100% { transform: rotate(0deg); } }
+    @keyframes tap { 0%, 4% { opacity: 0; } 8%, 16% { opacity: 1; } 22%, 100% { opacity: 0; } }
+    @keyframes drive { 0%, 30% { transform: translateX(0); opacity: 1; } 72% { transform: translateX(-250px); opacity: 1; } 80% { transform: translateX(-270px); opacity: 0; } 81% { transform: translateX(40px); opacity: 0; } 100% { transform: translateX(0); opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="220" fill="url(#bg)"/>
+    <rect width="1000" height="220" fill="url(#dots)"/>
+    <rect width="1000" height="220" fill="url(#glow)"/>
+    <text class="mono a" x="48" y="58" font-size="14" font-weight="700">02</text>
+    <text class="mono m" x="80" y="58" font-size="13" letter-spacing="2.5">IOT · SOLO</text>
+    <text class="sans t" x="46" y="124" font-size="46" font-weight="800" letter-spacing="-0.8">Smart Parking Gate</text>
+    <text class="sans m" x="48" y="162" font-size="20">RFID gate with live slot tracking and a web dashboard</text>
+    <g transform="translate(660,34)">
+      <path class="ln" d="M0 148 H300"/>
+      <g class="car">
+        <path class="sh" d="M196 136 v-20 q0 -7 7 -9 l13 -4 l13 -19 h38 l15 19 l11 4 q6 2 6 9 v20 z"/>
+        <path class="ln" d="M226 103 h50"/>
+        <circle class="sh" cx="222" cy="138" r="10"/><circle class="sh" cx="276" cy="138" r="10"/>
+      </g>
+      <rect class="sh" x="-12" y="8" width="72" height="28" rx="5"/>
+      <text class="mono a" x="24" y="27" font-size="13" font-weight="700" text-anchor="middle">03 FREE</text>
+      <path class="ln" d="M24 36 V148"/>
+      <rect class="sh" x="44" y="62" width="20" height="86" rx="4"/>
+      <g class="arm"><rect x="50" y="72" width="124" height="9" rx="4.5" fill="#F5B13D"/></g>
+      <circle cx="54" cy="76.5" r="5" fill="#1C160C" stroke="#F5B13D" stroke-width="2"/>
+      <path class="wave" d="M76 118 q7 8 0 16"/><path class="wave w2" d="M86 112 q12 14 0 28"/><path class="wave w3" d="M96 106 q17 20 0 40"/>
+    </g>
+
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="218.5" rx="18" fill="none" stroke="#40300F" stroke-width="1.5"/>
+</svg>

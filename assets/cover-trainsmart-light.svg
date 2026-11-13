@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-labelledby="t d">
+  <title id="t">TrainSMART</title>
+  <desc id="d">Desktop app for planning and tracking workouts. Illustration of a barbell above a bar chart of rising workout progress.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5FCF8"/><stop offset="0.6" stop-color="#F5FCF8"/><stop offset="1" stop-color="#D5F2E3"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="880" cy="77" r="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#059669" stop-opacity="0.13"/><stop offset="1" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#047857" opacity="0.10"/></pattern>
+    <clipPath id="clip"><rect width="1000" height="220" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; } .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .t { fill: #06281A; } .m { fill: #4B7461; } .a { fill: #047857; }
+    .ln { fill: none; stroke: #5DB592; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .la { fill: none; stroke: #047857; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+    .sh { fill: #FFFFFF; stroke: #5DB592; stroke-width: 2; stroke-linejoin: round; }
+    
+    .bar { fill: #047857; transform-box: fill-box; transform-origin: 50% 100%; animation: grow 5s ease-out infinite; }
+    @keyframes grow { 0% { transform: scaleY(0.05); } 22%, 88% { transform: scaleY(1); } 100% { transform: scaleY(0.05); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="220" fill="url(#bg)"/>
+    <rect width="1000" height="220" fill="url(#dots)"/>
+    <rect width="1000" height="220" fill="url(#glow)"/>
+    <text class="mono a" x="48" y="58" font-size="14" font-weight="700">03</text>
+    <text class="mono m" x="80" y="58" font-size="13" letter-spacing="2.5">DESKTOP · SOLO</text>
+    <text class="sans t" x="46" y="124" font-size="46" font-weight="800" letter-spacing="-0.8">TrainSMART</text>
+    <text class="sans m" x="48" y="162" font-size="20">Desktop app for planning and tracking workouts</text>
+    <g transform="translate(660,34)">
+      <path class="la" d="M14 30 H286"/>
+      <rect class="sh" x="36" y="2" width="14" height="56" rx="4"/><rect class="sh" x="54" y="10" width="11" height="40" rx="3.5"/>
+      <rect class="sh" x="235" y="10" width="11" height="40" rx="3.5"/><rect class="sh" x="250" y="2" width="14" height="56" rx="4"/>
+      <path class="ln" d="M30 152 H270"/>
+      <rect class="bar" style="animation-delay:0.00s" x="42" y="128" width="24" height="22" rx="3" opacity="0.45"/>
+      <rect class="bar" style="animation-delay:0.12s" x="80" y="114" width="24" height="36" rx="3" opacity="0.56"/>
+      <rect class="bar" style="animation-delay:0.24s" x="118" y="120" width="24" height="30" rx="3" opacity="0.67"/>
+      <rect class="bar" style="animation-delay:0.36s" x="156" y="100" width="24" height="50" rx="3" opacity="0.78"/>
+      <rect class="bar" style="animation-delay:0.48s" x="194" y="90" width="24" height="60" rx="3" opacity="0.89"/>
+      <rect class="bar" style="animation-delay:0.60s" x="232" y="74" width="24" height="76" rx="3" opacity="1.00"/>
+    </g>
+
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="218.5" rx="18" fill="none" stroke="#BDE3CF" stroke-width="1.5"/>
+</svg>

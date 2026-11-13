@@ -1,126 +1,102 @@
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img src="./assets/banner.svg" width="100%" alt="Jed B. Padro — Computer Engineering student at SLSU, developing toward software engineering, embedded systems and IoT." />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero.svg" width="100%" alt="Jed B. Padro — Computer Engineering student at Southern Leyte State University. Software engineer in the making, hardware-literate by training." />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A4161A&center=true&vCenter=true&width=620&height=36&lines=Computer+Engineering+student+%E2%86%92+software+engineer;Desktop+apps+%C2%B7+IoT+systems+%C2%B7+Web+dashboards;Now+building%3A+a+campus+wayfinding+kiosk+for+SLSU;Open+to+internships+and+collaborations" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=E07A88&center=true&vCenter=true&width=620&height=36&lines=Computer+Engineering+student+%E2%86%92+software+engineer;Desktop+apps+%C2%B7+IoT+systems+%C2%B7+Web+dashboards;Now+building%3A+a+campus+wayfinding+kiosk+for+SLSU;Open+to+internships+and+collaborations" alt="Computer Engineering student, developing toward software engineering. Now building a campus wayfinding kiosk for SLSU." />
-</picture>
+<p align="center">
+  <samp>
+    <a href="https://www.linkedin.com/in/jed-padro-ba9563299/">linkedin</a> ·
+    <a href="mailto:jedpadro@gmail.com">email</a> ·
+    <a href="https://github.com/jeedp?tab=repositories">repositories</a>
+  </samp>
+</p>
 
-<br />
-
-<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-800000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
-<a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-800000?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
-<a href="https://github.com/jeedp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-800000?style=flat-square&logo=github&logoColor=white" alt="Repositories" height="28" /></a>
-
-</div>
-
-<br />
-
-I'm **Jed Padro**, a Computer Engineering student developing toward a career in **software engineering and emerging technologies**. My degree taught me how machines work from the circuit up; my projects are where I learn to write software that people can rely on — and AI, data, and connected devices are where I want to take that next.
+I'm **Jed Padro**, a 4th-year Computer Engineering student at Southern Leyte State University, developing toward a career in **software engineering and emerging technologies**. My degree taught me how machines work from the circuit up; my projects are where I learn to write software people can rely on.
 
 | | |
 | --- | --- |
-| 🔨 **Now** | Finishing the [SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation), my thesis project |
-| 🌱 **Learning** | Software engineering practices, data engineering, and systems development |
-| 🔭 **Curious about** | AI and machine learning — not started yet, next on my list |
-| 🎯 **Looking for** | A software engineering internship, and people to build practical systems with |
+| **Now** | Finishing the SLSU Campus Wayfinding System, my thesis project |
+| **Learning** | Software engineering practices, data engineering, and systems development |
+| **Curious about** | AI and machine learning — not started yet, next on my list |
+| **Looking for** | A software engineering internship, and people to build practical systems with |
 
-## <img src="https://img.shields.io/badge/01-800000?style=flat-square" alt="01" height="22" /> About
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-I'm in my 4th year of **BS Computer Engineering** at **Southern Leyte State University (SLSU)**, Philippines. I like the part of a project where it has to work somewhere real: on a Raspberry Pi behind a touchscreen, on an ESP32 at a parking gate, on a campus where the signal drops.
+### <samp>01 — selected work</samp>
 
-**How I work**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cover-wayfinding-light.svg" />
+  <img src="./assets/cover-wayfinding.svg" width="100%" alt="Campus Wayfinding — offline touchscreen kiosk for the SLSU main campus. Thesis, team of two, in progress." />
+</picture>
 
-- 🔌 **I build the whole path.** Sensor, firmware, database, dashboard — I'd rather understand every layer than hand one off as a black box.
-- ⚙️ **I design for the hardware I actually have.** When our campus map stuttered on a Raspberry Pi, I cut each floor drawing from 14 MB to under 3 MB instead of asking for a faster board.
-- 📋 **I write things down.** Setup scripts, deployment guides, and acceptance checklists, so a teammate can rebuild the system from a blank SD card without me in the room.
-- 🧪 **I test before the hardware arrives.** Smoke tests and laptop tooling first, so the day the device shows up is for integration, not surprises.
-- 🤖 **AI/ML is next on my list.** I haven't studied it yet. I already use AI tools when I code, which is exactly why I want to understand how they work.
+**[SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation)** — a touchscreen kiosk that helps students and visitors find any building, office, or facility on campus. It runs fully offline on a Raspberry Pi, with a custom 2D vector map, office search, floor plans, and walking directions.
 
-## <img src="https://img.shields.io/badge/02-800000?style=flat-square" alt="02" height="22" /> Featured Projects
-
-| Project | What it is | My role |
-| --- | --- | --- |
-| 🧭 [**SLSU Campus Wayfinding**](https://github.com/cymrcsm/slsu-map-navigation) | Offline touchscreen kiosk that guides people around campus | Thesis, team of two |
-| 🚗 [**Smart Parking Gate**](https://github.com/jeedp/Smart-Parking-Gate-System) | RFID parking gate with a live web dashboard | Solo, every layer |
-| 🏋️ [**TrainSMART**](https://github.com/jeedp/TrainSMARTApp) | Desktop app for planning and tracking workouts | Solo |
-
-<details open>
-<summary><b>🧭 SLSU Campus Wayfinding System</b> — thesis, in progress</summary>
+<details>
+<summary><samp>what I worked on</samp></summary>
 
 <br />
-
-A touchscreen kiosk that helps students and visitors find any building, office, or facility on the SLSU main campus. It runs fully offline on a Raspberry Pi, with a custom 2D vector map, office search, floor plans, and walking directions.
-
-**What I worked on**
 
 - **Making it run well on a Pi** — shrank and re-encoded the floor drawings (14 MB → 1.5–3 MB per floor) and lightened map zooming so it stays smooth on a Raspberry Pi 4
 - **Phone hand-off** — scan a QR code at the kiosk and the route continues on your phone as a live-GPS walking map
 - **Deployment** — one re-runnable script that turns a fresh Raspberry Pi OS card into the kiosk, including its own Wi-Fi network, plus the setup guide the team works from
 - **Kiosk details** — an on-screen keyboard, walking time and distance on each route, and an idle screensaver that resets the kiosk for the next visitor
 
-<sub>Built with a teammate; the repository is hosted on <a href="https://github.com/cymrcsm">@cymrcsm</a>'s account.</sub>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-800000?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-800000?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-800000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-800000?style=flat-square&logo=sqlite&logoColor=white)
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-800000?style=flat-square&logo=html5&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-800000?style=flat-square&logo=raspberrypi&logoColor=white)
+Built with a teammate; the repository is hosted on [@cymrcsm](https://github.com/cymrcsm)'s account.
 
 </details>
 
-<details>
-<summary><b>🚗 Smart Parking Gate System</b> — IoT, solo</summary>
+<samp>JavaScript · Node.js · Express · SQLite · HTML/CSS · Raspberry Pi</samp>
 
 <br />
 
-A parking gate that knows who is allowed in and how many slots are left, and reports both to a live web dashboard. This is the project where I worked on every layer, from pin mapping to the browser.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cover-parking-light.svg" />
+  <img src="./assets/cover-parking.svg" width="100%" alt="Smart Parking Gate — RFID gate with live slot tracking and a web dashboard. IoT, solo project." />
+</picture>
 
-```text
- sensor  ──▶  firmware  ──▶  database  ──▶  dashboard
- RFID         ESP32          Firebase       web app
-```
+**[Smart Parking Gate System](https://github.com/jeedp/Smart-Parking-Gate-System)** — a parking gate that knows who is allowed in and how many slots are left, and reports both to a live web dashboard. The project where I worked on every layer, from pin mapping to the browser.
+
+<details>
+<summary><samp>what I built</samp></summary>
+
+<br />
 
 - **Firmware** — ESP32 code split into modules for the gate, RFID reader, ultrasonic sensors, buzzer, and display, with gate control, sensing, and dashboard updates running as separate FreeRTOS tasks
 - **Gate control** — RFID cards open the entry gate; servos drive entry and exit, with a 16×2 LCD showing status at the gate
 - **Dashboard** — real-time slot availability over Firebase, with manual gate control from the browser and a Bluetooth fallback
 - **Tests** — unit tests for the gate and RFID logic alongside the firmware
 
-![ESP32](https://img.shields.io/badge/ESP32-800000?style=flat-square&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-800000?style=flat-square&logo=cplusplus&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-800000?style=flat-square)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-800000?style=flat-square&logo=platformio&logoColor=white)
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth%20LE-800000?style=flat-square&logo=bluetooth&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-800000?style=flat-square&logo=firebase&logoColor=white)
-
 </details>
 
-<details>
-<summary><b>🏋️ TrainSMART</b> — desktop app, solo</summary>
+<samp>C++ · ESP32 · FreeRTOS · PlatformIO · Bluetooth LE · Firebase · JavaScript</samp>
 
 <br />
 
-A desktop app for planning workouts and tracking progress over time. An earlier project, and the one that taught me to structure an application around its database.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cover-trainsmart-light.svg" />
+  <img src="./assets/cover-trainsmart.svg" width="100%" alt="TrainSMART — desktop app for planning and tracking workouts. Desktop, solo project." />
+</picture>
+
+**[TrainSMART](https://github.com/jeedp/TrainSMARTApp)** — a desktop app for planning workouts and tracking progress over time. An earlier project, and the one that taught me to structure an application around its database.
+
+<details>
+<summary><samp>what I built</samp></summary>
+
+<br />
 
 - Workout templates and exercise management
 - Workout tracking and body measurements
 - User accounts with login and input validation
 - Relational data model written in T-SQL on SQL Server
 
-![C#](https://img.shields.io/badge/C%23-800000?style=flat-square&logo=sharp&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-800000?style=flat-square)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-800000?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-800000?style=flat-square)
-
 </details>
 
+<samp>C# · Windows Forms · .NET Framework · SQL Server</samp>
+
+<br />
+
 <details>
-<summary><b>Also built</b></summary>
+<summary><samp>also built</samp></summary>
 
 <br />
 
@@ -129,80 +105,62 @@ A desktop app for planning workouts and tracking progress over time. An earlier 
 
 </details>
 
-## <img src="https://img.shields.io/badge/03-800000?style=flat-square" alt="03" height="22" /> Tech Stack
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+### <samp>02 — toolbox</samp>
 
 <table>
   <tr>
-    <td valign="top" width="170"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="40" alt="C, C++, C#, Python, JavaScript, PHP" />
-    </td>
+    <td valign="top" width="150"><samp>languages</samp></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="36" alt="C, C++, C#, Python, JavaScript, PHP" /></td>
   </tr>
   <tr>
-    <td valign="top"><b>Web</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,laravel,nodejs&theme=dark" height="40" alt="HTML, CSS, JavaScript, Laravel, Node.js" />
-    </td>
+    <td valign="top"><samp>web</samp></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,laravel,nodejs&theme=dark" height="36" alt="HTML, CSS, JavaScript, Laravel, Node.js" /></td>
   </tr>
   <tr>
-    <td valign="top"><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="40" alt="MySQL, Firebase" />
-      <br />
-      <img src="https://img.shields.io/badge/SQL%20Server-800000?style=flat-square" alt="SQL Server" />
-    </td>
+    <td valign="top"><samp>databases</samp></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="36" alt="MySQL, Firebase" /> &nbsp;<img src="https://img.shields.io/badge/SQL%20Server-800000?style=flat-square" alt="SQL Server" /></td>
   </tr>
   <tr>
-    <td valign="top"><b>Embedded</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="40" alt="Arduino, Raspberry Pi" />
-      <br />
-      <img src="https://img.shields.io/badge/ESP32-800000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-    </td>
+    <td valign="top"><samp>embedded</samp></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="36" alt="Arduino, Raspberry Pi" /> &nbsp;<img src="https://img.shields.io/badge/ESP32-800000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /></td>
   </tr>
   <tr>
-    <td valign="top"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" height="40" alt="Git, GitHub, VS Code, Visual Studio, Postman" />
-      <br />
-      <img src="https://img.shields.io/badge/Arduino%20IDE-800000?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE" />
-    </td>
+    <td valign="top"><samp>tools</samp></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" height="36" alt="Git, GitHub, VS Code, Visual Studio, Postman" /> &nbsp;<img src="https://img.shields.io/badge/Arduino%20IDE-800000?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE" /></td>
   </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/04-800000?style=flat-square" alt="04" height="22" /> Currently Learning
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-The goal is a career in software engineering. These are the areas I'm growing into, and where each one stands today.
+### <samp>03 — how I work</samp>
 
-- **Software Engineering**
-  - *Now:* shipping full applications across desktop, web, and server
-  - *Learning:* testing, pull-request workflows, and architecture that stays readable as a project grows
-- **Data Engineering**
-  - *Now:* designing relational schemas and real-time databases for my own apps
-  - *Learning:* what happens to data after it is collected — storage, pipelines, and structure
-- **Systems Development & IoT**
-  - *Now:* building ESP32 and Raspberry Pi systems end to end
-  - *Learning:* designing hardware and software as one system rather than two halves joined at the end
-- **AI / Machine Learning**
-  - *Not started yet.* It's the field I'm most curious about, and I plan to begin with the fundamentals.
+- **I build the whole path.** Sensor, firmware, database, dashboard — I'd rather understand every layer than hand one off as a black box.
+- **I design for the hardware I actually have.** When our campus map stuttered on a Raspberry Pi, I cut each floor drawing from 14 MB to under 3 MB instead of asking for a faster board.
+- **I write things down.** Setup scripts, deployment guides, and acceptance checklists, so a teammate can rebuild the system from a blank SD card without me in the room.
+- **I test before the hardware arrives.** Smoke tests and laptop tooling first, so the day the device shows up is for integration, not surprises.
 
-## <img src="https://img.shields.io/badge/05-800000?style=flat-square" alt="05" height="22" /> Connect
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-Jed%20Padro-800000?style=flat-square&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" /></a>
-<a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-jedpadro%40gmail.com-800000?style=flat-square&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" /></a>
-<!-- TODO: add a Portfolio badge here once the portfolio site is live -->
+### <samp>04 — currently learning</samp>
+
+- **Software engineering practices** — testing, pull-request workflows, and architecture that stays readable as a project grows
+- **Data engineering** — what happens to data after it is collected: storage, pipelines, and structure
+- **Systems development** — designing hardware and software as one system rather than two halves joined at the end
+- **AI / machine learning** — not started yet. It's the field I'm most curious about, and I plan to begin with the fundamentals.
 
 <details>
-<summary><b>GitHub activity</b></summary>
+<summary><samp>github activity</samp></summary>
 
 <br />
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=F0A8B0&icon_color=C1354A&text_color=C9D1D9" height="165" alt="GitHub statistics for jeedp" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0A8B0&text_color=C9D1D9" height="165" alt="Most used languages for jeedp" />
+<img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide_border=true&bg_color=120B0D&title_color=E0566A&icon_color=E0566A&text_color=F6EDE9" height="165" alt="GitHub statistics for jeedp" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&hide_border=true&bg_color=120B0D&title_color=E0566A&text_color=F6EDE9" height="165" alt="Most used languages for jeedp" />
 
-<img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&background=0D1117&ring=C1354A&fire=C1354A&currStreakLabel=F0A8B0&sideLabels=C9D1D9&currStreakNum=F7ECEE&sideNums=F7ECEE&dates=8B949E&stroke=3A0911" height="165" alt="GitHub streak for jeedp" />
+<img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&background=120B0D&ring=E0566A&fire=E0566A&currStreakLabel=E0566A&sideLabels=F6EDE9&currStreakNum=F6EDE9&sideNums=F6EDE9&dates=BDA7A8&stroke=3D141C" height="165" alt="GitHub streak for jeedp" />
 
 <sub>These cards only count repositories I own. My thesis work lives in a teammate's repository, so it isn't reflected here.</sub>
 
@@ -210,8 +168,14 @@ The goal is a career in software engineering. These are the areas I'm growing in
 
 </details>
 
-<br />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <sub>Built in Southern Leyte, Philippines · one sensor reading at a time</sub>
-</div>
+<p align="center">
+  <samp>
+    open to internships and collaborations<br />
+    <a href="https://www.linkedin.com/in/jed-padro-ba9563299/">linkedin</a> ·
+    <a href="mailto:jedpadro@gmail.com">jedpadro@gmail.com</a>
+  </samp>
+</p>
+
+<!-- TODO: add a portfolio link above once the site is live -->
