@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img src="./assets/banner.svg" width="100%" alt="Jed B. Padro — Computer Engineering student at SLSU, developing toward software engineering, AI/ML and IoT." />
+  <img src="./assets/banner.svg" width="100%" alt="Jed B. Padro — Computer Engineering student at SLSU, developing toward software engineering, embedded systems and IoT." />
 </picture>
 
 <picture>
@@ -20,12 +20,13 @@
 
 <br />
 
-I'm **Jed Padro**, a Computer Engineering student developing toward a career in **software engineering and emerging technologies**. My degree taught me how machines work from the circuit up; my projects are where I learn to write software that people can rely on — and AI, data, and connected devices are where I'm taking that next.
+I'm **Jed Padro**, a Computer Engineering student developing toward a career in **software engineering and emerging technologies**. My degree taught me how machines work from the circuit up; my projects are where I learn to write software that people can rely on — and AI, data, and connected devices are where I want to take that next.
 
 | | |
 | --- | --- |
 | 🔨 **Now** | Finishing the [SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation), my thesis project |
-| 🌱 **Learning** | Machine learning fundamentals, testing, and data pipelines |
+| 🌱 **Learning** | Software engineering practices, data engineering, and systems development |
+| 🔭 **Curious about** | AI and machine learning — not started yet, next on my list |
 | 🎯 **Looking for** | A software engineering internship, and people to build practical systems with |
 
 ## <img src="https://img.shields.io/badge/01-800000?style=flat-square" alt="01" height="22" /> About
@@ -38,14 +39,13 @@ I'm in my 4th year of **BS Computer Engineering** at **Southern Leyte State Univ
 - ⚙️ **I design for the hardware I actually have.** When our campus map stuttered on a Raspberry Pi, I cut each floor drawing from 14 MB to under 3 MB instead of asking for a faster board.
 - 📋 **I write things down.** Setup scripts, deployment guides, and acceptance checklists, so a teammate can rebuild the system from a blank SD card without me in the room.
 - 🧪 **I test before the hardware arrives.** Smoke tests and laptop tooling first, so the day the device shows up is for integration, not surprises.
-- 🤖 **I've had a first taste of machine learning, and I want more.** I trained flood prediction models for a data science challenge and I use AI coding tools daily; now I'm learning the fundamentals properly.
+- 🤖 **AI/ML is next on my list.** I haven't studied it yet. I already use AI tools when I code, which is exactly why I want to understand how they work.
 
 ## <img src="https://img.shields.io/badge/02-800000?style=flat-square" alt="02" height="22" /> Featured Projects
 
 | Project | What it is | My role |
 | --- | --- | --- |
 | 🧭 [**SLSU Campus Wayfinding**](https://github.com/cymrcsm/slsu-map-navigation) | Offline touchscreen kiosk that guides people around campus | Thesis, team of two |
-| 🌧️ [**Jeepney Rerouting**](https://github.com/Nick-Miras/JeepneyRerouting) | Flood prediction and route rerouting for Metro Manila, using machine learning | Team entry, PJDSC 2024 |
 | 🚗 [**Smart Parking Gate**](https://github.com/jeedp/Smart-Parking-Gate-System) | RFID parking gate with a live web dashboard | Solo, every layer |
 | 🏋️ [**TrainSMART**](https://github.com/jeedp/TrainSMARTApp) | Desktop app for planning and tracking workouts | Solo |
 
@@ -71,31 +71,6 @@ A touchscreen kiosk that helps students and visitors find any building, office, 
 ![SQLite](https://img.shields.io/badge/SQLite-800000?style=flat-square&logo=sqlite&logoColor=white)
 ![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-800000?style=flat-square&logo=html5&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-800000?style=flat-square&logo=raspberrypi&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🌧️ Jeepney Rerouting</b> — data science, PJDSC 2024</summary>
-
-<br />
-
-A flood prediction and jeepney rerouting system for Metro Manila, built as our team's entry to the Philippine Junior Data Science Challenge 2024. It predicts which parts of the road network will flood, then finds alternative routes so jeepneys can keep running.
-
-**What I worked on**
-
-- **Flood prediction** — a spatial Random Forest model trained on rainfall, elevation, and flood hazard data
-- **Road network** — processing OpenStreetMap data for Metro Manila into a graph, then optimising and parallelising the route search
-- **Uncertainty** — Monte Carlo simulations of how flooding disrupts the network, and kriging to interpolate rainfall between measurement points
-- **Data collection** — Python scripts that download and prepare NASA precipitation data
-
-<sub>Built with a teammate; the repository is hosted on <a href="https://github.com/Nick-Miras">@Nick-Miras</a>'s account.</sub>
-
-![Python](https://img.shields.io/badge/Python-800000?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-800000?style=flat-square&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-800000?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-800000?style=flat-square&logo=pandas&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-800000?style=flat-square)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-800000?style=flat-square&logo=openstreetmap&logoColor=white)
 
 </details>
 
@@ -195,22 +170,21 @@ A desktop app for planning workouts and tracking progress over time. An earlier 
   </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/04-800000?style=flat-square" alt="04" height="22" /> Where I'm Headed
+## <img src="https://img.shields.io/badge/04-800000?style=flat-square" alt="04" height="22" /> Currently Learning
 
 The goal is a career in software engineering. These are the areas I'm growing into, and where each one stands today.
 
 - **Software Engineering**
   - *Now:* shipping full applications across desktop, web, and server
-  - *Next:* testing, pull-request workflows, and architecture that stays readable as a project grows
-- **AI / Machine Learning**
-  - *Now:* trained a spatial Random Forest for flood prediction in a team data science entry; using AI coding tools daily
-  - *Next:* the fundamentals underneath those models, and where a model belongs in a real system
+  - *Learning:* testing, pull-request workflows, and architecture that stays readable as a project grows
 - **Data Engineering**
-  - *Now:* collected and prepared satellite rainfall and map data in Python; designed schemas and real-time databases for my apps
-  - *Next:* proper pipelines — how data is stored, moved, and kept reliable at scale
-- **Embedded Systems & IoT**
+  - *Now:* designing relational schemas and real-time databases for my own apps
+  - *Learning:* what happens to data after it is collected — storage, pipelines, and structure
+- **Systems Development & IoT**
   - *Now:* building ESP32 and Raspberry Pi systems end to end
-  - *Next:* designing hardware and software as one system rather than two halves joined at the end
+  - *Learning:* designing hardware and software as one system rather than two halves joined at the end
+- **AI / Machine Learning**
+  - *Not started yet.* It's the field I'm most curious about, and I plan to begin with the fundamentals.
 
 ## <img src="https://img.shields.io/badge/05-800000?style=flat-square" alt="05" height="22" /> Connect
 
@@ -226,9 +200,11 @@ The goal is a career in software engineering. These are the areas I'm growing in
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=F0A8B0&icon_color=C1354A&text_color=C9D1D9" height="165" alt="GitHub statistics for jeedp" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0A8B0&text_color=C9D1D9" height="165" alt="Most used languages for jeedp" />
+
 <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&background=0D1117&ring=C1354A&fire=C1354A&currStreakLabel=F0A8B0&sideLabels=C9D1D9&currStreakNum=F7ECEE&sideNums=F7ECEE&dates=8B949E&stroke=3A0911" height="165" alt="GitHub streak for jeedp" />
 
-<sub>Much of my recent work lives in teammates' repositories, so these numbers undercount it.</sub>
+<sub>These cards only count repositories I own. My thesis work lives in a teammate's repository, so it isn't reflected here.</sub>
 
 </div>
 
