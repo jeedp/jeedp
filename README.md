@@ -1,22 +1,26 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Jed B. Padro — Computer Engineering student at SLSU, developing toward software engineering, AI/ML and IoT." />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner.svg" width="100%" alt="Jed B. Padro — Computer Engineering student at SLSU, developing toward software engineering, AI/ML and IoT." />
+</picture>
 
-<a href="https://github.com/jeedp">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A4161A&center=true&vCenter=true&width=620&height=36&lines=Computer+Engineering+student+%E2%86%92+software+engineer;Desktop+apps+%C2%B7+IoT+systems+%C2%B7+Web+dashboards;Now+building%3A+a+campus+wayfinding+kiosk+for+SLSU;Open+to+internships+and+collaborations" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=E07A88&center=true&vCenter=true&width=620&height=36&lines=Computer+Engineering+student+%E2%86%92+software+engineer;Desktop+apps+%C2%B7+IoT+systems+%C2%B7+Web+dashboards;Now+building%3A+a+campus+wayfinding+kiosk+for+SLSU;Open+to+internships+and+collaborations" alt="Computer Engineering student, developing toward software engineering. Now building a campus wayfinding kiosk for SLSU." />
-</a>
+</picture>
 
 <br />
 
-<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-800000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/jeedp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-800000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-800000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" /></a>
+<a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-800000?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
+<a href="https://github.com/jeedp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-800000?style=flat-square&logo=github&logoColor=white" alt="Repositories" height="28" /></a>
 
 </div>
 
 <br />
 
-I'm a Computer Engineering student developing toward a career in **software engineering and emerging technologies**. My degree taught me how machines work from the circuit up; my projects are where I learn to write software that people can rely on — and AI, data, and connected devices are where I'm taking that next.
+I'm **Jed Padro**, a Computer Engineering student developing toward a career in **software engineering and emerging technologies**. My degree taught me how machines work from the circuit up; my projects are where I learn to write software that people can rely on — and AI, data, and connected devices are where I'm taking that next.
 
 | | |
 | --- | --- |
@@ -38,12 +42,12 @@ I'm in my 4th year of **BS Computer Engineering** at **Southern Leyte State Univ
 
 ## <img src="https://img.shields.io/badge/02-800000?style=flat-square" alt="02" height="22" /> Featured Projects
 
-| Project | What it is | Area | My role |
-| --- | --- | --- | --- |
-| 🧭 [**SLSU Campus Wayfinding**](https://github.com/cymrcsm/slsu-map-navigation) | Offline touchscreen kiosk that guides people around campus | Web · Raspberry Pi | Thesis, team of two |
-| 🌧️ [**Jeepney Rerouting**](https://github.com/Nick-Miras/JeepneyRerouting) | Flood prediction and route rerouting for Metro Manila | Machine learning · Data | Team entry, PJDSC 2024 |
-| 🚗 [**Smart Parking Gate**](https://github.com/jeedp/Smart-Parking-Gate-System) | RFID parking gate with a live web dashboard | IoT · Embedded | Solo, every layer |
-| 🏋️ [**TrainSMART**](https://github.com/jeedp/TrainSMARTApp) | Desktop app for planning and tracking workouts | Desktop · Database | Solo |
+| Project | What it is | My role |
+| --- | --- | --- |
+| 🧭 [**SLSU Campus Wayfinding**](https://github.com/cymrcsm/slsu-map-navigation) | Offline touchscreen kiosk that guides people around campus | Thesis, team of two |
+| 🌧️ [**Jeepney Rerouting**](https://github.com/Nick-Miras/JeepneyRerouting) | Flood prediction and route rerouting for Metro Manila, using machine learning | Team entry, PJDSC 2024 |
+| 🚗 [**Smart Parking Gate**](https://github.com/jeedp/Smart-Parking-Gate-System) | RFID parking gate with a live web dashboard | Solo, every layer |
+| 🏋️ [**TrainSMART**](https://github.com/jeedp/TrainSMARTApp) | Desktop app for planning and tracking workouts | Solo |
 
 <details open>
 <summary><b>🧭 SLSU Campus Wayfinding System</b> — thesis, in progress</summary>
@@ -195,12 +199,18 @@ A desktop app for planning workouts and tracking progress over time. An earlier 
 
 The goal is a career in software engineering. These are the areas I'm growing into, and where each one stands today.
 
-| Direction | Where I am now | What I'm learning next |
-| --- | --- | --- |
-| **Software Engineering** | Shipping full applications: desktop, web, and server | Testing, pull-request workflows, and architecture that stays readable as a project grows |
-| **AI / Machine Learning** | Trained a spatial Random Forest for flood prediction in a team data science entry; using AI coding tools daily | The fundamentals underneath those models, and where a model belongs in a real system |
-| **Data Engineering** | Collected and prepared satellite rainfall and map data in Python; designed schemas and real-time databases for my apps | Building proper pipelines: how data is stored, moved, and kept reliable at scale |
-| **Embedded Systems & IoT** | Building ESP32 and Raspberry Pi systems end to end | Designing hardware and software as one system rather than two halves joined at the end |
+- **Software Engineering**
+  - *Now:* shipping full applications across desktop, web, and server
+  - *Next:* testing, pull-request workflows, and architecture that stays readable as a project grows
+- **AI / Machine Learning**
+  - *Now:* trained a spatial Random Forest for flood prediction in a team data science entry; using AI coding tools daily
+  - *Next:* the fundamentals underneath those models, and where a model belongs in a real system
+- **Data Engineering**
+  - *Now:* collected and prepared satellite rainfall and map data in Python; designed schemas and real-time databases for my apps
+  - *Next:* proper pipelines — how data is stored, moved, and kept reliable at scale
+- **Embedded Systems & IoT**
+  - *Now:* building ESP32 and Raspberry Pi systems end to end
+  - *Next:* designing hardware and software as one system rather than two halves joined at the end
 
 ## <img src="https://img.shields.io/badge/05-800000?style=flat-square" alt="05" height="22" /> Connect
 
