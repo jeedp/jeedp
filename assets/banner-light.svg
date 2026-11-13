@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-labelledby="t d">
   <title id="t">Jed B. Padro</title>
-  <desc id="d">Computer Engineering student at SLSU, developing toward software engineering, AI/ML and IoT.</desc>
+  <desc id="d">Computer Engineering student at SLSU, developing toward software engineering, embedded systems and IoT.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFFAFA"/>
@@ -89,7 +89,7 @@
     <text class="label" x="60" y="82">COMPUTER ENGINEERING STUDENT · SLSU</text>
     <text class="name" x="57" y="146">Jed B. Padro</text>
     <rect x="60" y="166" width="64" height="4" rx="2" fill="#A4161A"/>
-    <text class="tag" x="60" y="204">software engineering · AI/ML · IoT</text>
+    <text class="tag" x="60" y="204">software · embedded systems · IoT</text>
   </g>
   <rect x="0.5" y="0.5" width="999" height="259" rx="18" fill="none" stroke="#E7BFC6"/>
 </svg>
