@@ -49,11 +49,11 @@ Computer Engineering student building practical systems across software and hard
 
 | Area | Technologies |
 | :-- | :-- |
-| Languages | C, C++, C#, Python, JavaScript, PHP |
-| Web | HTML, CSS, Laravel, Node.js |
-| Databases | MySQL, SQL Server, Firebase |
-| Embedded | Arduino, ESP32, Raspberry Pi |
-| Tools | Git, GitHub, VS Code, Visual Studio, Arduino IDE, Postman |
+| Languages | <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="32" alt="C, C++, C#, Python, JavaScript, PHP" /> |
+| Web | <img src="https://skillicons.dev/icons?i=html,css,laravel,nodejs&theme=dark" height="32" alt="HTML, CSS, Laravel, Node.js" /> |
+| Databases | <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="32" alt="MySQL, Firebase" /> <img src="https://img.shields.io/badge/SQL%20Server-7D1A24?style=flat-square" height="24" alt="SQL Server" /> |
+| Embedded | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="32" alt="Arduino, Raspberry Pi" /> <img src="https://img.shields.io/badge/ESP32-7D1A24?style=flat-square&logo=espressif&logoColor=white" height="24" alt="ESP32" /> |
+| Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" height="32" alt="Git, GitHub, VS Code, Visual Studio, Postman" /> <img src="https://img.shields.io/badge/Arduino%20IDE-7D1A24?style=flat-square&logo=arduino&logoColor=white" height="24" alt="Arduino IDE" /> |
 
 #### Development
 
