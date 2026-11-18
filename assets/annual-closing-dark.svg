@@ -7,14 +7,14 @@
 @keyframes wipe{from{transform:scaleX(0)}} @keyframes rise{from{opacity:0;transform:translateY(10px)}}
 @keyframes pen{from{stroke-dashoffset:1}} @keyframes fade{from{opacity:0}}
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
-<rect width="1200" height="230" rx="14" fill="#130D0F"/>
-<rect class="rule" x="56" y="34" width="1088" height="1.5" fill="#F2EBE6"/>
-<text class="a" x="56" y="70" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="2.6" fill="#D47C86">CLOSING NOTE</text>
-<text class="a" x="56" y="116" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-style="italic" font-size="32" fill="#F2EBE6">Open to internships and collaborations.</text>
-<text class="b" x="56" y="158" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-size="22" fill="#F2EBE6">Jed B. Padro</text>
-<path class="swash" d="M56 166 C 95.6 175, 148.4 163, 218.0 165 S 248.0 154, 234.0 150" fill="none" stroke="#D47C86" stroke-width="1.6" stroke-linecap="round" pathLength="1" stroke-dasharray="1 1"/>
-<text class="b" x="56" y="196" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="12" letter-spacing="1.2" fill="#A8999B">BS Computer Engineering · Southern Leyte State University</text>
-<path class="box" d="M1024 58H1144V178H1024Z" fill="none" stroke="#D47C86" stroke-width="1.5" pathLength="1" stroke-dasharray="1 1"/>
-<g class="mono" text-anchor="middle"><text x="1084" y="133" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-size="46" fill="#D47C86">JP</text>
-<text x="1084" y="204" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="10" letter-spacing="2.4" fill="#A8999B">SINCE 2024</text></g>
+<rect width="1200" height="230" rx="14" fill="#0d1626"/>
+<rect class="rule" x="56" y="34" width="1088" height="1.5" fill="#f2ede3"/>
+<text class="a" x="56" y="70" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="11" font-weight="600" letter-spacing="2.6" fill="#d8ab52">CLOSING NOTE</text>
+<text class="a" x="56" y="116" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-style="italic" font-size="32" fill="#f2ede3">Open to internships and collaborations.</text>
+<text class="b" x="56" y="158" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-size="22" fill="#f2ede3">Jed B. Padro</text>
+<path class="swash" d="M56 166 C 95.6 175, 148.4 163, 218.0 165 S 248.0 154, 234.0 150" fill="none" stroke="#d8ab52" stroke-width="1.6" stroke-linecap="round" pathLength="1" stroke-dasharray="1 1"/>
+<text class="b" x="56" y="196" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="12" letter-spacing="1.2" fill="#9ba5b9">BS Computer Engineering · Southern Leyte State University</text>
+<path class="box" d="M1024 58H1144V178H1024Z" fill="none" stroke="#d8ab52" stroke-width="1.5" pathLength="1" stroke-dasharray="1 1"/>
+<g class="mono" text-anchor="middle"><text x="1084" y="133" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, serif" font-size="46" fill="#d8ab52">JP</text>
+<text x="1084" y="204" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="10" letter-spacing="2.4" fill="#9ba5b9">SINCE 2024</text></g>
 </svg>
