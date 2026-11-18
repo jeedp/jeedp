@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/annual-cover-light.svg" />
-  <img src="./assets/annual-cover-dark.svg" width="100%" alt="Annual report cover for Jed B. Padro, BS Computer Engineering, Southern Leyte State University. 148 contributions on 22 active days in the last twelve months, three featured projects, on GitHub since 2024, and a bar chart of contributions per month." />
+  <img src="./assets/annual-cover-dark.svg" width="100%" alt="Annual report cover for Jed B. Padro, BS Computer Engineering, Southern Leyte State University. 158 contributions on 22 active days in the last twelve months, three featured projects, on GitHub since 2024, and a bar chart of contributions per month." />
 </picture>
 
 **Jed B. Padro** · BS Computer Engineering, Southern Leyte State University  
@@ -22,7 +22,7 @@ Computer Engineering student building practical systems across software and hard
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/annual-figures-light.svg" />
-  <img src="./assets/annual-figures-dark.svg" width="100%" alt="Key figures for the twelve months to 18 Nov 2026: 148 contributions, 142 commits, 4 pull requests, 22 active days, busiest day 26 contributions. Language share across own public repositories: C# 61%, T-SQL 23%, C++ 7%, JavaScript 4%, other 5%." />
+  <img src="./assets/annual-figures-dark.svg" width="100%" alt="Key figures for the twelve months to 18 Nov 2026: 158 contributions, 151 commits, 4 pull requests, 22 active days, busiest day 26 contributions. Language share across own public repositories: C# 57%, T-SQL 21%, HTML 8%, C++ 7%, other 7%." />
 </picture>
 
 <details>
