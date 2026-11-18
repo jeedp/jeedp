@@ -4,21 +4,17 @@
 </picture>
 
 <p align="center">
-  <samp>
-    <a href="https://www.linkedin.com/in/jed-padro-ba9563299/">linkedin</a> ·
-    <a href="mailto:jedpadro@gmail.com">email</a> ·
-    <a href="https://github.com/jeedp?tab=repositories">repositories</a>
-  </samp>
+  <a href="mailto:jedpadro@gmail.com"><code>✉&nbsp;jedpadro@gmail.com</code></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><code>in/jed-padro</code></a>&nbsp;
+  <a href="https://github.com/jeedp?tab=repositories"><code>⌥&nbsp;repositories</code></a>
 </p>
 
 I'm **Jed Padro**, a 4th-year Computer Engineering student at Southern Leyte State University, developing toward a career in **software engineering and emerging technologies**. My degree taught me how machines work from the circuit up; my projects are where I learn to write software people can rely on.
 
-| | |
-| --- | --- |
-| **Now** | Finishing the SLSU Campus Wayfinding System, my thesis project |
-| **Learning** | Software engineering practices, data engineering, and systems development |
-| **Curious about** | AI and machine learning — not started yet, next on my list |
-| **Looking for** | A software engineering internship, and people to build practical systems with |
+> <samp>now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> finishing my thesis, the SLSU Campus Wayfinding System<br />
+> <samp>learning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp> software engineering practices, data engineering, systems development<br />
+> <samp>curious&nbsp;about&nbsp;&nbsp;</samp> AI and machine learning — not started yet, next on my list<br />
+> <samp>looking&nbsp;for&nbsp;&nbsp;&nbsp;&nbsp;</samp> a software engineering internship
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -109,28 +105,29 @@ Built with a teammate; the repository is hosted on [@cymrcsm](https://github.com
 
 ### <samp>02 — toolbox</samp>
 
-<table>
-  <tr>
-    <td valign="top" width="150"><samp>languages</samp></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="36" alt="C, C++, C#, Python, JavaScript, PHP" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><samp>web</samp></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,laravel,nodejs&theme=dark" height="36" alt="HTML, CSS, JavaScript, Laravel, Node.js" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><samp>databases</samp></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="36" alt="MySQL, Firebase" /> &nbsp;<img src="https://img.shields.io/badge/SQL%20Server-800000?style=flat-square" alt="SQL Server" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><samp>embedded</samp></td>
-    <td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="36" alt="Arduino, Raspberry Pi" /> &nbsp;<img src="https://img.shields.io/badge/ESP32-800000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /></td>
-  </tr>
-  <tr>
-    <td valign="top"><samp>tools</samp></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" height="36" alt="Git, GitHub, VS Code, Visual Studio, Postman" /> &nbsp;<img src="https://img.shields.io/badge/Arduino%20IDE-800000?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE" /></td>
-  </tr>
-</table>
+<p>
+  <samp>languages&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="36" alt="C, C++, C#, Python, JavaScript, PHP" />
+</p>
+<p>
+  <samp>web&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,laravel,nodejs&theme=dark" height="36" alt="HTML, CSS, Laravel, Node.js" />
+</p>
+<p>
+  <samp>databases&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="36" alt="MySQL, Firebase" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/SQL%20Server-800000?style=for-the-badge" height="36" alt="SQL Server" />
+</p>
+<p>
+  <samp>embedded&nbsp;&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="36" alt="Arduino, Raspberry Pi" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/ESP32-800000?style=for-the-badge&logo=espressif&logoColor=white" height="36" alt="ESP32" />
+</p>
+<p>
+  <samp>tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" height="36" alt="Git, GitHub, VS Code, Visual Studio, Postman" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/Arduino%20IDE-800000?style=for-the-badge&logo=arduino&logoColor=white" height="36" alt="Arduino IDE" />
+</p>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -171,11 +168,9 @@ Built with a teammate; the repository is hosted on [@cymrcsm](https://github.com
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <samp>
-    open to internships and collaborations<br />
-    <a href="https://www.linkedin.com/in/jed-padro-ba9563299/">linkedin</a> ·
-    <a href="mailto:jedpadro@gmail.com">jedpadro@gmail.com</a>
-  </samp>
+  <samp>open to internships and collaborations</samp><br /><br />
+  <a href="mailto:jedpadro@gmail.com"><code>✉&nbsp;jedpadro@gmail.com</code></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><code>in/jed-padro</code></a>
 </p>
 
 <!-- TODO: add a portfolio link above once the site is live -->
