@@ -6,7 +6,7 @@
 **Jed B. Padro** · BS Computer Engineering, Southern Leyte State University  
 Computer Engineering student building practical systems across software and hardware.
 
-[jedpadro@gmail.com](mailto:jedpadro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jed-padro-ba9563299/) · [Repositories](https://github.com/jeedp?tab=repositories)
+[jedpadro@gmail.com](mailto:jedpadro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jed-padro-ba9563299/) · [Portfolio](https://jeedp.github.io/portfolio/) · [Repositories](https://github.com/jeedp?tab=repositories)
 
 **Summary.** I'm a 4th-year Computer Engineering student in the Philippines working toward a career in software engineering. My projects tend to sit where software meets hardware: firmware on an ESP32, a server on a Raspberry Pi, and the interface people actually use.
 
@@ -15,7 +15,8 @@ Computer Engineering student building practical systems across software and hard
 #### Highlights
 
 - Reduced the thesis kiosk's floor drawings from 14 MB to 1.5–3 MB per floor so the campus map runs smoothly on a Raspberry Pi 4.
-- Built the Smart Parking Gate end to end: ESP32 firmware on FreeRTOS, RFID and ultrasonic sensing, and a Firebase web dashboard.
+- Built the Smart Parking Gate end to end: ESP32 firmware, RFID and ultrasonic sensing, a live Firebase dashboard, and gate control from the browser over Bluetooth.
+- Split the parking gate's firmware into FreeRTOS tasks on separate ESP32 cores, keeping gate control apart from network updates.
 - Wrote the deployment script and setup guide that turn a blank Raspberry Pi card into a working kiosk.
 
 #### Key figures
@@ -38,12 +39,62 @@ Computer Engineering student building practical systems across software and hard
 
 #### Portfolio
 
-- **[SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation)** — An offline touchscreen kiosk that helps students and visitors find buildings, offices, and facilities on the SLSU main campus, with a 2D vector map, floor plans, and walking directions. Thesis, team of two, hosted on [@cymrcsm](https://github.com/cymrcsm)'s account.  
-  <sub>JavaScript · Node.js · Express · SQLite · HTML/CSS · Raspberry Pi</sub>
-- **[Smart Parking Gate System](https://github.com/jeedp/Smart-Parking-Gate-System)** — An IoT parking gate that admits RFID card holders, tracks free slots with ultrasonic sensors, and reports both to a live web dashboard with manual gate control.  
-  <sub>C++ · ESP32 · FreeRTOS · PlatformIO · Bluetooth LE · Firebase · JavaScript</sub>
-- **[TrainSMART](https://github.com/jeedp/TrainSMARTApp)** — A desktop application for workout templates, exercise management, workout tracking, and body measurements.  
-  <sub>C# · Windows Forms · .NET Framework · SQL Server</sub>
+**[SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation)** · Thesis · team of two · in progress  
+An offline touchscreen kiosk that helps students and visitors find buildings, offices, and facilities on the SLSU main campus, with a 2D vector map, floor plans, and walking directions.
+
+- **My part:** performance on the Raspberry Pi (floor drawings cut from 14 MB to 1.5–3 MB each), the QR hand-off that continues a route on a visitor's phone with live GPS, and the setup script and guide for deploying the kiosk.
+- **Stack:** JavaScript, Node.js, Express, SQLite, HTML/CSS, Raspberry Pi
+
+<details>
+<summary><sub>How it works</sub></summary>
+
+```mermaid
+flowchart LR
+  K["Touchscreen<br/>(Chromium kiosk mode)"] --> S["Node.js + Express<br/>on Raspberry Pi"]
+  S --> D[("SQLite<br/>settings and overrides")]
+  S --> M["Vector map, floor plans<br/>and walking paths"]
+  K -- "QR code" --> P["Visitor's phone<br/>live-GPS walking map"]
+  S -. "kiosk's own Wi-Fi" .-> P
+```
+
+- **Runs without internet.** The map, floor plans, and routes are served from the Pi itself, so the kiosk keeps working if the campus network drops.
+- **Phones get the route two ways:** over the kiosk's own Wi-Fi network, or from a public copy of the map for phones on mobile data.
+- **Live GPS needs HTTPS,** so the kiosk serves the phone page over a trusted certificate rather than plain HTTP.
+
+The repository is hosted on [@cymrcsm](https://github.com/cymrcsm)'s account.
+
+</details>
+
+**[Smart Parking Gate System](https://github.com/jeedp/Smart-Parking-Gate-System)** · IoT · solo  
+A parking gate that admits RFID card holders, tracks free slots with ultrasonic sensors, and reports both to a live web dashboard.
+
+- **My part:** all of it, from pin mapping and firmware to the dashboard, including unit tests for the gate and RFID logic.
+- **Stack:** C++, ESP32, FreeRTOS, PlatformIO, Firebase, Bluetooth LE, JavaScript
+
+<details>
+<summary><sub>How it works</sub></summary>
+
+```mermaid
+flowchart LR
+  R["RFID reader"] --> E["ESP32<br/>FreeRTOS tasks"]
+  U["Ultrasonic sensors"] --> E
+  E --> G["Entry and exit servos<br/>16×2 LCD"]
+  E -- "status and event log" --> F[("Firebase<br/>Realtime Database")]
+  F --> W["Web dashboard"]
+  W -- "open / close over Bluetooth LE" --> E
+```
+
+- **Gate control and network updates run as separate tasks on separate cores,** so a slow connection to Firebase does not hold up the gate.
+- **Manual control goes straight to the ESP32 over Bluetooth,** so an operator can open or close the gate from the browser without the internet.
+- **The dashboard only reads from Firebase:** live slot count, gate state, and the last 20 events.
+
+</details>
+
+**[TrainSMART](https://github.com/jeedp/TrainSMARTApp)** · Desktop · solo  
+A desktop application for workout templates, exercise management, workout tracking, and body measurements.
+
+- **My part:** the full application, including user accounts with input validation and a relational data model written in T-SQL.
+- **Stack:** C#, Windows Forms, .NET Framework, SQL Server
 
 #### Capabilities
 
