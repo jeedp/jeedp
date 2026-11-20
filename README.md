@@ -50,8 +50,12 @@ I build across software and hardware, from embedded firmware to web and desktop 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&langs_count=6&hide_border=true&border_radius=10&custom_title=Most-used%20languages&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0" height="145" alt="Most-used languages across repositories owned by jeedp." />
 </picture>
 
+<div align="center">
+
 ### Connect
 
 <a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
 <a href="https://jeedp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
 <a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+
+</div>
