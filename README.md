@@ -1,67 +1,33 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/annual-cover-light.svg" />
-  <img src="./assets/annual-cover-dark.svg" width="100%" alt="Annual report cover for Jed B. Padro, BS Computer Engineering, Southern Leyte State University. 158 contributions on 22 active days in the last twelve months, three featured projects, on GitHub since 2024, and a bar chart of contributions per month." />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-dark.svg" width="100%" alt="Jed B. Padro. Computer Engineering student at Southern Leyte State University, building practical systems across software and hardware. Open to software engineering internships." />
 </picture>
 
-**Jed B. Padro** · BS Computer Engineering, Southern Leyte State University  
-Computer Engineering student building practical systems across software and hardware.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-8B1E2D?style=flat-square&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" /></a>
+  <a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-8B1E2D?style=flat-square&logo=gmail&logoColor=white" height="26" alt="Email" /></a>
+  <a href="https://jeedp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-8B1E2D?style=flat-square&logo=googlechrome&logoColor=white" height="26" alt="Portfolio" /></a>
+</p>
 
-[jedpadro@gmail.com](mailto:jedpadro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jed-padro-ba9563299/) · [Portfolio](https://jeedp.github.io/portfolio/) · [Repositories](https://github.com/jeedp?tab=repositories)
+## About
 
-**Summary.** I'm a 4th-year Computer Engineering student in the Philippines working toward a career in software engineering. My projects tend to sit where software meets hardware: firmware on an ESP32, a server on a Raspberry Pi, and the interface people actually use.
+I'm Jed Padro, a 4th-year Computer Engineering student at Southern Leyte State University in the Philippines, working toward a career in software engineering.
 
-**Outlook.** Completing my thesis, the SLSU Campus Wayfinding System, then looking for a software engineering internship.
+Most of what I build sits where software meets hardware: firmware on an ESP32, a server on a Raspberry Pi, and the interface people actually use. I care about systems that keep working outside the lab, and I document them well enough that someone else can run them.
 
-#### Highlights
+## Featured projects
 
-- Reduced the thesis kiosk's floor drawings from 14 MB to 1.5–3 MB per floor so the campus map runs smoothly on a Raspberry Pi 4.
-- Built the Smart Parking Gate end to end: ESP32 firmware, RFID and ultrasonic sensing, a live Firebase dashboard, and gate control from the browser over Bluetooth.
-- Split the parking gate's firmware into FreeRTOS tasks on separate ESP32 cores, keeping gate control apart from network updates.
-- Wrote the deployment script and setup guide that turn a blank Raspberry Pi card into a working kiosk.
+### [SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation)
 
-#### Key figures
+<sub>THESIS · TEAM OF TWO · IN PROGRESS</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/annual-figures-light.svg" />
-  <img src="./assets/annual-figures-dark.svg" width="100%" alt="Key figures for the twelve months to 18 Nov 2026: 158 contributions, 151 commits, 4 pull requests, 22 active days, busiest day 26 contributions. Language share across own public repositories: C# 57%, T-SQL 21%, HTML 8%, C++ 7%, other 7%." />
-</picture>
-
-<details>
-<summary><sub>Notes to the figures</sub></summary>
-
-- **Period:** the twelve months to 18 November 2026, as GitHub counts public contributions (commits, pull requests, issues and reviews). Figures are a snapshot taken on that date and are not updated automatically.
-- **Contributions** include work in repositories owned by others, such as the thesis repository.
-- **Languages** are measured only across repositories I own, so they lean toward my earlier C# projects and leave out the JavaScript thesis work.
-
-<sub>Layout based on the Annual Report template from [README Templates](https://github.com/Dr-At0mic/README-Templates). Motion stops if your system asks for reduced motion.</sub>
-
-</details>
-
-#### GitHub analytics
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeedp&bg_color=f7f4ee&color=566078&title_color=13213b&line=8a5f17&point=13213b&area=true&area_color=8a5f17&hide_border=true&radius=14&custom_title=Contributions%20per%20day" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeedp&bg_color=0d1626&color=9ba5b9&title_color=f2ede3&line=d8ab52&point=f2ede3&area=true&area_color=d8ab52&hide_border=true&radius=14&custom_title=Contributions%20per%20day" width="100%" alt="Line chart of daily GitHub contributions for jeedp over the last month." />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues,contribs&hide_border=true&border_radius=14&custom_title=GitHub%20activity&bg_color=f7f4ee&title_color=13213b&text_color=13213b&icon_color=8a5f17" />
-  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues,contribs&hide_border=true&border_radius=14&custom_title=GitHub%20activity&bg_color=0d1626&title_color=f2ede3&text_color=f2ede3&icon_color=d8ab52" height="150" alt="Live GitHub statistics for jeedp: stars, commits and pull requests." />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=14&background=f7f4ee&ring=8a5f17&fire=8a5f17&currStreakLabel=8a5f17&sideLabels=13213b&currStreakNum=13213b&sideNums=13213b&dates=566078&stroke=cfc6b6" />
-  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=14&background=0d1626&ring=d8ab52&fire=d8ab52&currStreakLabel=d8ab52&sideLabels=f2ede3&currStreakNum=f2ede3&sideNums=f2ede3&dates=9ba5b9&stroke=2b3851" height="150" alt="GitHub contribution streak for jeedp: total contributions, current streak and longest streak." />
-</picture>
-
-<sub>Live cards from [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph), [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) and [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats). They refresh on their own, so they can differ from the dated figures above.</sub>
-
-#### Portfolio
-
-**[SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation)** · Thesis · team of two · in progress  
 An offline touchscreen kiosk that helps students and visitors find buildings, offices, and facilities on the SLSU main campus, with a 2D vector map, floor plans, and walking directions.
 
-- **My part:** performance on the Raspberry Pi (floor drawings cut from 14 MB to 1.5–3 MB each), the QR hand-off that continues a route on a visitor's phone with live GPS, and the setup script and guide for deploying the kiosk.
-- **Stack:** JavaScript, Node.js, Express, SQLite, HTML/CSS, Raspberry Pi
+- Cut the floor drawings from 14 MB to 1.5–3 MB each so the map runs smoothly on a Raspberry Pi 4
+- Built the QR hand-off that continues a route on a visitor's phone with live GPS
+- Wrote the setup script and guide that turn a blank Raspberry Pi card into a working kiosk
+
+<samp>JavaScript · Node.js · Express · SQLite · HTML/CSS · Raspberry Pi</samp>
 
 <details>
 <summary><sub>How it works</sub></summary>
@@ -72,22 +38,23 @@ flowchart LR
   S --> D[("SQLite<br/>settings and overrides")]
   S --> M["Vector map, floor plans<br/>and walking paths"]
   K -- "QR code" --> P["Visitor's phone<br/>live-GPS walking map"]
-  S -. "kiosk's own Wi-Fi" .-> P
 ```
 
-- **Runs without internet.** The map, floor plans, and routes are served from the Pi itself, so the kiosk keeps working if the campus network drops.
-- **Phones get the route two ways:** over the kiosk's own Wi-Fi network, or from a public copy of the map for phones on mobile data.
-- **Live GPS needs HTTPS,** so the kiosk serves the phone page over a trusted certificate rather than plain HTTP.
-
-The repository is hosted on [@cymrcsm](https://github.com/cymrcsm)'s account.
+The map, floor plans, and routes are served from the Pi itself, so the kiosk keeps working without internet. Phones get the route over the kiosk's own Wi-Fi, or from a public copy of the map when they are on mobile data. The repository is hosted on [@cymrcsm](https://github.com/cymrcsm)'s account.
 
 </details>
 
-**[Smart Parking Gate System](https://github.com/jeedp/Smart-Parking-Gate-System)** · IoT · solo  
+### [Smart Parking Gate System](https://github.com/jeedp/Smart-Parking-Gate-System)
+
+<sub>IOT · SOLO</sub>
+
 A parking gate that admits RFID card holders, tracks free slots with ultrasonic sensors, and reports both to a live web dashboard.
 
-- **My part:** all of it, from pin mapping and firmware to the dashboard, including unit tests for the gate and RFID logic.
-- **Stack:** C++, ESP32, FreeRTOS, PlatformIO, Firebase, Bluetooth LE, JavaScript
+- Wrote the ESP32 firmware as FreeRTOS tasks on separate cores, so network updates never hold up the gate
+- Built the dashboard: live slot count and event log from Firebase, and gate control from the browser over Bluetooth
+- Added unit tests for the gate and RFID logic
+
+<samp>C++ · ESP32 · FreeRTOS · PlatformIO · Firebase · Bluetooth LE · JavaScript</samp>
 
 <details>
 <summary><sub>How it works</sub></summary>
@@ -102,36 +69,75 @@ flowchart LR
   W -- "open / close over Bluetooth LE" --> E
 ```
 
-- **Gate control and network updates run as separate tasks on separate cores,** so a slow connection to Firebase does not hold up the gate.
-- **Manual control goes straight to the ESP32 over Bluetooth,** so an operator can open or close the gate from the browser without the internet.
-- **The dashboard only reads from Firebase:** live slot count, gate state, and the last 20 events.
+</details>
+
+### [TrainSMART](https://github.com/jeedp/TrainSMARTApp)
+
+<sub>DESKTOP · SOLO</sub>
+
+A desktop application for workout templates, exercise management, workout tracking, and body measurements, with user accounts and a relational data model on SQL Server.
+
+<samp>C# · Windows Forms · .NET Framework · SQL Server</samp>
+
+<details>
+<summary><sub>Also built</sub></summary>
+
+- [**Portfolio site**](https://jeedp.github.io/portfolio/) — a responsive personal site in plain HTML, CSS, and JavaScript, with light and dark modes
+- **Task Manager** — a task tracking web app in Laravel <sub>(private repository)</sub>
+- [**LoginSystem**](https://github.com/jeedp/LoginSystem) and [**Calculator**](https://github.com/jeedp/Calculator) — early C# Windows Forms projects
 
 </details>
 
-**[TrainSMART](https://github.com/jeedp/TrainSMARTApp)** · Desktop · solo  
-A desktop application for workout templates, exercise management, workout tracking, and body measurements.
+## Tech stack
 
-- **My part:** the full application, including user accounts with input validation and a relational data model written in T-SQL.
-- **Stack:** C#, Windows Forms, .NET Framework, SQL Server
+<p>
+  <samp>languages&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="34" alt="C, C++, C#, Python, JavaScript, PHP" />
+</p>
+<p>
+  <samp>web&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,laravel,nodejs&theme=dark" height="34" alt="HTML, CSS, Laravel, Node.js" />
+</p>
+<p>
+  <samp>databases&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="34" alt="MySQL, Firebase" />&nbsp;<img align="center" src="https://img.shields.io/badge/SQL%20Server-8B1E2D?style=flat-square" height="24" alt="SQL Server" />
+</p>
+<p>
+  <samp>embedded&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="34" alt="Arduino, Raspberry Pi" />&nbsp;<img align="center" src="https://img.shields.io/badge/ESP32-8B1E2D?style=flat-square&logo=espressif&logoColor=white" height="24" alt="ESP32" />
+</p>
+<p>
+  <samp>tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp>
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" height="34" alt="Git, GitHub, VS Code, Visual Studio, Postman" />&nbsp;<img align="center" src="https://img.shields.io/badge/Arduino%20IDE-8B1E2D?style=flat-square&logo=arduino&logoColor=white" height="24" alt="Arduino IDE" />
+</p>
 
-#### Capabilities
-
-| Area | Technologies |
-| :-- | :-- |
-| Languages | <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="32" alt="C, C++, C#, Python, JavaScript, PHP" /> |
-| Web | <img src="https://skillicons.dev/icons?i=html,css,laravel,nodejs&theme=dark" height="32" alt="HTML, CSS, Laravel, Node.js" /> |
-| Databases | <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="32" alt="MySQL, Firebase" /> <img src="https://img.shields.io/badge/SQL%20Server-13213B?style=flat-square" height="24" alt="SQL Server" /> |
-| Embedded | <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="32" alt="Arduino, Raspberry Pi" /> <img src="https://img.shields.io/badge/ESP32-13213B?style=flat-square&logo=espressif&logoColor=white" height="24" alt="ESP32" /> |
-| Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" height="32" alt="Git, GitHub, VS Code, Visual Studio, Postman" /> <img src="https://img.shields.io/badge/Arduino%20IDE-13213B?style=flat-square&logo=arduino&logoColor=white" height="24" alt="Arduino IDE" /> |
-
-#### Development
-
-- **Software engineering practices** — testing, code review, and maintainable architecture.
-- **Data engineering** — storage, pipelines, and how data moves between systems.
-- **Systems development** — designing hardware and software as one system.
-- **AI and machine learning** — not started yet; the next area I plan to study.
+## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/annual-closing-light.svg" />
-  <img src="./assets/annual-closing-dark.svg" width="100%" alt="Closing note: Open to internships and collaborations. Jed B. Padro, BS Computer Engineering, Southern Leyte State University." />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues%2Ccontribs&hide_border=true&border_radius=12&custom_title=GitHub%20activity&bg_color=FBF9F7&title_color=1B1416&text_color=1B1416&icon_color=8B1E2D" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues%2Ccontribs&hide_border=true&border_radius=12&custom_title=GitHub%20activity&bg_color=16181D&title_color=F2EEEA&text_color=F2EEEA&icon_color=D2566A" height="150" alt="GitHub statistics for jeedp: stars, commits in the last year, and pull requests." />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&langs_count=6&hide_border=true&border_radius=12&custom_title=Most-used%20languages&bg_color=FBF9F7&title_color=1B1416&text_color=1B1416" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&langs_count=6&hide_border=true&border_radius=12&custom_title=Most-used%20languages&bg_color=16181D&title_color=F2EEEA&text_color=F2EEEA" height="150" alt="Most-used languages across repositories owned by jeedp." />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=12&background=FBF9F7&ring=8B1E2D&fire=8B1E2D&currStreakLabel=8B1E2D&sideLabels=1B1416&currStreakNum=1B1416&sideNums=1B1416&dates=6A5F61&stroke=E6DEDA" />
+  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=12&background=16181D&ring=D2566A&fire=D2566A&currStreakLabel=D2566A&sideLabels=F2EEEA&currStreakNum=F2EEEA&sideNums=F2EEEA&dates=A39C99&stroke=2A2D33" height="150" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
+</picture>
+
+<sub>Live cards from [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) and [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats). Languages count only repositories I own, so my JavaScript thesis work, hosted on a teammate's account, does not appear.</sub>
+
+## Currently learning
+
+- **Software engineering practices** — testing, code review, and maintainable architecture
+- **Data engineering** — storage, pipelines, and how data moves between systems
+- **Systems development** — designing hardware and software as one system
+- **AI and machine learning** — not started yet; the next area I plan to study
+
+## Connect
+
+Open to software engineering internships and collaborations.
+
+[jedpadro@gmail.com](mailto:jedpadro@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jed-padro-ba9563299/) · [Portfolio](https://jeedp.github.io/portfolio/) · [GitHub](https://github.com/jeedp)
