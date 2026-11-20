@@ -4,7 +4,7 @@
 
 <samp>Building ideas into practical technology.</samp>
 
-4th-year BS Computer Engineering student at Southern Leyte State University, Philippines.<br />
+BS Computer Engineering student at Southern Leyte State University, Philippines.<br />
 I build across software and hardware, from embedded firmware to web and desktop applications.
 
 <picture>
