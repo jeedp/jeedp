@@ -37,6 +37,24 @@ Computer Engineering student building practical systems across software and hard
 
 </details>
 
+#### GitHub analytics
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jeedp&bg_color=f7f4ee&color=566078&title_color=13213b&line=8a5f17&point=13213b&area=true&area_color=8a5f17&hide_border=true&radius=14&custom_title=Contributions%20per%20day" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeedp&bg_color=0d1626&color=9ba5b9&title_color=f2ede3&line=d8ab52&point=f2ede3&area=true&area_color=d8ab52&hide_border=true&radius=14&custom_title=Contributions%20per%20day" width="100%" alt="Line chart of daily GitHub contributions for jeedp over the last month." />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues,contribs&hide_border=true&border_radius=14&custom_title=GitHub%20activity&bg_color=f7f4ee&title_color=13213b&text_color=13213b&icon_color=8a5f17" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues,contribs&hide_border=true&border_radius=14&custom_title=GitHub%20activity&bg_color=0d1626&title_color=f2ede3&text_color=f2ede3&icon_color=d8ab52" height="150" alt="Live GitHub statistics for jeedp: stars, commits and pull requests." />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=14&background=f7f4ee&ring=8a5f17&fire=8a5f17&currStreakLabel=8a5f17&sideLabels=13213b&currStreakNum=13213b&sideNums=13213b&dates=566078&stroke=cfc6b6" />
+  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=14&background=0d1626&ring=d8ab52&fire=d8ab52&currStreakLabel=d8ab52&sideLabels=f2ede3&currStreakNum=f2ede3&sideNums=f2ede3&dates=9ba5b9&stroke=2b3851" height="150" alt="GitHub contribution streak for jeedp: total contributions, current streak and longest streak." />
+</picture>
+
+<sub>Live cards from [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph), [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) and [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats). They refresh on their own, so they can differ from the dated figures above.</sub>
+
 #### Portfolio
 
 **[SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation)** · Thesis · team of two · in progress  
