@@ -27,13 +27,14 @@ I build across software and hardware, from embedded firmware to web and desktop 
   </tr>
 </table>
 
-### Featured Projects
+### Highlights
 
-| Project | Stack |
+| Highlight | Project |
 | :-- | :-- |
-| **[SLSU Campus Wayfinding System](https://github.com/cymrcsm/slsu-map-navigation)**<br /><sub>Thesis · offline touchscreen kiosk for finding buildings and offices on campus</sub> | <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=22D3EE" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=22D3EE" alt="Node.js" /> <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=22D3EE" alt="SQLite" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-0F172A?style=flat-square&logo=raspberrypi&logoColor=22D3EE" alt="Raspberry Pi" /> |
-| **[Smart Parking Gate System](https://github.com/jeedp/Smart-Parking-Gate-System)**<br /><sub>RFID parking gate with live slot tracking and a web dashboard</sub> | <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=flat-square&logo=cplusplus&logoColor=22D3EE" alt="C++" /> <img src="https://img.shields.io/badge/ESP32-0F172A?style=flat-square&logo=espressif&logoColor=22D3EE" alt="ESP32" /> <img src="https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=22D3EE" alt="Firebase" /> <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=22D3EE" alt="JavaScript" /> |
-| **[TrainSMART](https://github.com/jeedp/TrainSMARTApp)**<br /><sub>Desktop app for workout templates, tracking, and body measurements</sub> | <img src="https://img.shields.io/badge/C%23-0F172A?style=flat-square&logo=sharp&logoColor=22D3EE" alt="C#" /> <img src="https://img.shields.io/badge/.NET%20Framework-0F172A?style=flat-square&logo=dotnet&logoColor=22D3EE" alt=".NET Framework" /> <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square" alt="SQL Server" /> |
+| **14 MB → 1.5–3 MB** floor plans, so the campus map runs smoothly on a Raspberry Pi 4 | [Campus Wayfinding](https://github.com/cymrcsm/slsu-map-navigation) <sub>(thesis)</sub> |
+| **Dual-core firmware:** gate control and network updates as separate FreeRTOS tasks on an ESP32 | [Smart Parking Gate](https://github.com/jeedp/Smart-Parking-Gate-System) |
+| **Gate control from the browser** over Bluetooth, with live slot counts through Firebase | [Smart Parking Gate](https://github.com/jeedp/Smart-Parking-Gate-System) |
+| **One-script deployment** from a blank Raspberry Pi card to a working kiosk | [Campus Wayfinding](https://github.com/cymrcsm/slsu-map-navigation) <sub>(thesis)</sub> |
 
 ### Currently Exploring
 
@@ -54,7 +55,7 @@ I build across software and hardware, from embedded firmware to web and desktop 
 
 ### Connect
 
-<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzIyRDNFRSIgZD0iTTQuOTggMy41QzQuOTggNC44OCAzLjg3IDYgMi41IDZTMCA0Ljg4IDAgMy41IDEuMTIgMSAyLjUgMXMyLjQ4IDEuMTIgMi40OCAyLjV6TS41IDhoNHYxNmgtNFY4em03IDBoMy44djIuMmguMDZjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzcgMi42NSA0Ljc3IDYuMVYyNGgtNHYtNy44YzAtMS44Ni0uMDMtNC4yNS0yLjYtNC4yNS0yLjYgMC0zIDIuMDMtMyA0LjEyVjI0aC00Vjh6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="https://jeedp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
 <a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
 
