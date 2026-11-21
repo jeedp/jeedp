@@ -27,7 +27,7 @@ and each project shows me what to learn next.
 
 <!-- <samp>Building ideas into practical technology.</samp> -->
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ and each project shows me what to learn next.
   </tr>
 </table>
 
-### Currently Exploring
+### 🔭 Currently Exploring
 
 - Software Engineering
 - AI / ML
@@ -62,7 +62,7 @@ and each project shows me what to learn next.
 
 <div align="center">
 
-### Connect
+### 🤝 Connect
 
 <a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTQuOTggMy41QzQuOTggNC44OCAzLjg3IDYgMi41IDZTMCA0Ljg4IDAgMy41IDEuMTIgMSAyLjUgMXMyLjQ4IDEuMTIgMi40OCAyLjV6TS41IDhoNHYxNmgtNFY4em03IDBoMy44djIuMmguMDZjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzcgMi42NSA0Ljc3IDYuMVYyNGgtNHYtNy44YzAtMS44Ni0uMDMtNC4yNS0yLjYtNC4yNS0yLjYgMC0zIDIuMDMtMyA0LjEyVjI0aC00Vjh6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="https://jeedp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
