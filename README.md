@@ -2,13 +2,22 @@
 
 ## Hi, I'm Jed Padro
 
-<samp>Building ideas into practical technology.</samp>
+<p align="center">
+  <span>🎓 BS Computer Engineering - Senior</span>
+  &emsp;•&emsp;
+  <span>🏫 Southern Leyte State University</span>
+</p>
+<!-- <samp>Building ideas into practical technology.</samp> -->
 
+&nbsp;
 <img src="https://img.shields.io/badge/status-open%20to%20internships-A3E635?style=flat-square&labelColor=0F172A" alt="Status: open to internships" />
+&nbsp;
 
-Computer Engineering student at Southern Leyte State University, Philippines.<br />
-I learn best by building, from embedded firmware to web and desktop apps,<br />
-and every project leaves me with something new I want to understand.
+</div>
+
+Computer Engineering student at Southern Leyte State University, Philippines. I learn best by building, from embedded firmware to web and desktop apps, and every project leaves me with something new I want to understand.
+
+<div align="center">
 
 <p>
 <picture>
@@ -32,63 +41,22 @@ and every project leaves me with something new I want to understand.
   </tr>
 </table>
 
-<!--
-
-### Projects
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/card-wayfinding-light.svg" />
-  <img src="./assets/card-wayfinding-dark.svg" width="100%" alt="SLSU Campus Wayfinding System: offline touchscreen kiosk for finding buildings and offices on campus. Thesis, team of two, in progress. JavaScript, Node.js, SQLite, Raspberry Pi." />
-</picture>
-
-<sub><a href="https://github.com/cymrcsm/slsu-map-navigation">View repository →</a></sub>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/card-parking-light.svg" />
-  <img src="./assets/card-parking-dark.svg" width="100%" alt="Smart Parking Gate System: RFID parking gate with live slot tracking and a web dashboard. IoT, solo. C++, ESP32, FreeRTOS, Firebase." />
-</picture>
-
-<sub><a href="https://github.com/jeedp/Smart-Parking-Gate-System">View repository →</a></sub>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/card-trainsmart-light.svg" />
-  <img src="./assets/card-trainsmart-dark.svg" width="100%" alt="TrainSMART: desktop app for workout templates, tracking, and body measurements. Desktop, solo. C#, .NET Framework, SQL Server." />
-</picture>
-
-<sub><a href="https://github.com/jeedp/TrainSMARTApp">View repository →</a></sub>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <img src="./assets/divider-dark.svg" width="100%" alt="" />
-</picture>
-
--->
-
 ### Currently Exploring
 
 - Software Engineering
 - AI / ML
 - Data Engineering
 
-### GitHub Stats
+### 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&custom_title=GitHub%20stats&bg_color=F8FAFC&title_color=0E7490&text_color=0F172A&icon_color=0E7490" />
-  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&custom_title=GitHub%20stats&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0&icon_color=22D3EE" height="145" alt="GitHub stats for jeedp: stars, commits in the last year, and pull requests." />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&langs_count=6&hide_border=true&border_radius=10&custom_title=Most-used%20languages&bg_color=F8FAFC&title_color=0E7490&text_color=0F172A" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&langs_count=6&hide_border=true&border_radius=10&custom_title=Most-used%20languages&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0" height="145" alt="Most-used languages across repositories owned by jeedp." />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide=issues%2Ccontribs&hide_border=true&border_radius=10&custom_title=GitHub%20stats&bg_color=F8FAFC&title_color=0E7490&text_color=0F172A&icon_color=0E7490" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&custom_title=GitHub%20stats&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0&icon_color=FEED19" height="145" alt="GitHub stats for jeedp: stars, commits in the last year, and pull requests." />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=F8FAFC&ring=0E7490&fire=0E7490&currStreakLabel=0E7490&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&stroke=E2E8F0" />
-  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <img src="./assets/divider-dark.svg" width="100%" alt="" />
+  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=FF5608&fire=FF5608&currStreakLabel=ED300C&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
 </picture>
 
 <div align="center">
