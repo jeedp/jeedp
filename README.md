@@ -1,13 +1,20 @@
+![Profile Views](https://komarev.com/ghpvc/?username=jeedp&color=0D1017)
+
 <div align="center">
 
-## Hi, I'm Jed Padro
+# Hi, I'm Jed Padro
 
-<span>🎓&nbsp;BS&nbsp;Computer&nbsp;Engineering&nbsp;·&nbsp;Senior</span> &emsp;•&emsp; <span>🏫&nbsp;Southern&nbsp;Leyte&nbsp;State&nbsp;University</span>
+<span><b>🎓&nbsp;BS&nbsp;Computer&nbsp;Engineering&nbsp;·&nbsp;Senior</b></span> &emsp;|&emsp; 
+<span><b>🏫&nbsp;Southern&nbsp;Leyte&nbsp;State&nbsp;University</b></span>
 
 I learn by building, from embedded firmware to web and desktop apps,<br />
 and each project shows me what to learn next.
 
+&nbsp;
+
 <img src="https://img.shields.io/badge/status-open%20to%20internships-A3E635?style=flat-square&labelColor=0F172A" alt="Status: open to internships" />
+
+&nbsp;
 
 <p>
 <picture>
@@ -45,11 +52,12 @@ and each project shows me what to learn next.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&bg_color=F8FAFC&text_color=0F172A&icon_color=B45309&ring_color=B45309" />
-  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&bg_color=0F172A&text_color=E2E8F0&icon_color=FBBF24&ring_color=FBBF24" height="120" alt="GitHub stats for jeedp: rank, stars, commits in the last year, and pull requests." />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&bg_color=0F172A&text_color=E2E8F0&icon_color=FBBF24&ring_color=FBBF24" height="145" alt="GitHub stats for jeedp: rank, stars, commits in the last year, and pull requests." />
 </picture>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=F8FAFC&ring=EA580C&fire=EA580C&currStreakLabel=C2410C&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&stroke=E2E8F0&card_width=390&card_height=175" />
-  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B&card_width=390&card_height=175" height="120" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=F8FAFC&ring=EA580C&fire=EA580C&currStreakLabel=C2410C&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&stroke=E2E8F0" />
+  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
 </picture>
 
 <div align="center">
