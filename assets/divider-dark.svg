@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="16" viewBox="0 0 1000 16" aria-hidden="true">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A3E635" stop-opacity="0"/><stop offset=".35" stop-color="#A3E635" stop-opacity=".7"/>
+<stop offset=".65" stop-color="#22D3EE" stop-opacity=".7"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="7.5" width="1000" height="1.2" fill="url(#f)"/><circle cx="500.0" cy="8" r="3" fill="#0F172A" stroke="#22D3EE" stroke-width="1.5"/>
+</svg>

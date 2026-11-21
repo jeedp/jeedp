@@ -4,13 +4,18 @@
 
 <samp>Building ideas into practical technology.</samp>
 
-BS Computer Engineering student at Southern Leyte State University, Philippines.<br />
-I build across software and hardware, from embedded firmware to web and desktop applications.
+<img src="https://img.shields.io/badge/status-open%20to%20internships-A3E635?style=flat-square&labelColor=0F172A" alt="Status: open to internships" />
 
+Computer Engineering student at Southern Leyte State University, Philippines.<br />
+I learn best by building, from embedded firmware to web and desktop apps,<br />
+and every project leaves me with something new I want to understand.
+
+<p>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/accent-light.svg" />
   <img src="./assets/accent-dark.svg" width="420" alt="" />
 </picture>
+</p>
 
 </div>
 
@@ -27,18 +32,27 @@ I build across software and hardware, from embedded firmware to web and desktop 
   </tr>
 </table>
 
-### Highlights
+### Projects
 
-| Highlight | Project |
-| :-- | :-- |
-| **14 MB → 1.5–3 MB** floor plans, so the campus map runs smoothly on a Raspberry Pi 4 | [Campus Wayfinding](https://github.com/cymrcsm/slsu-map-navigation) <sub>(thesis)</sub> |
-| **Dual-core firmware:** gate control and network updates as separate FreeRTOS tasks on an ESP32 | [Smart Parking Gate](https://github.com/jeedp/Smart-Parking-Gate-System) |
-| **Gate control from the browser** over Bluetooth, with live slot counts through Firebase | [Smart Parking Gate](https://github.com/jeedp/Smart-Parking-Gate-System) |
-| **One-script deployment** from a blank Raspberry Pi card to a working kiosk | [Campus Wayfinding](https://github.com/cymrcsm/slsu-map-navigation) <sub>(thesis)</sub> |
+<a href="https://github.com/cymrcsm/slsu-map-navigation"><img src="./assets/card-wayfinding-dark.svg#gh-dark-mode-only" width="100%" alt="SLSU Campus Wayfinding System: offline touchscreen kiosk for finding buildings and offices on campus. Thesis, team of two, in progress. JavaScript, Node.js, SQLite, Raspberry Pi." /></a>
+<a href="https://github.com/cymrcsm/slsu-map-navigation"><img src="./assets/card-wayfinding-light.svg#gh-light-mode-only" width="100%" alt="SLSU Campus Wayfinding System: offline touchscreen kiosk for finding buildings and offices on campus. Thesis, team of two, in progress. JavaScript, Node.js, SQLite, Raspberry Pi." /></a>
+
+<a href="https://github.com/jeedp/Smart-Parking-Gate-System"><img src="./assets/card-parking-dark.svg#gh-dark-mode-only" width="100%" alt="Smart Parking Gate System: RFID parking gate with live slot tracking and a web dashboard. IoT, solo. C++, ESP32, FreeRTOS, Firebase." /></a>
+<a href="https://github.com/jeedp/Smart-Parking-Gate-System"><img src="./assets/card-parking-light.svg#gh-light-mode-only" width="100%" alt="Smart Parking Gate System: RFID parking gate with live slot tracking and a web dashboard. IoT, solo. C++, ESP32, FreeRTOS, Firebase." /></a>
+
+<a href="https://github.com/jeedp/TrainSMARTApp"><img src="./assets/card-trainsmart-dark.svg#gh-dark-mode-only" width="100%" alt="TrainSMART: desktop app for workout templates, tracking, and body measurements. Desktop, solo. C#, .NET Framework, SQL Server." /></a>
+<a href="https://github.com/jeedp/TrainSMARTApp"><img src="./assets/card-trainsmart-light.svg#gh-light-mode-only" width="100%" alt="TrainSMART: desktop app for workout templates, tracking, and body measurements. Desktop, solo. C#, .NET Framework, SQL Server." /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <img src="./assets/divider-dark.svg" width="100%" alt="" />
+</picture>
 
 ### Currently Exploring
 
-<samp>Software Engineering &nbsp;|&nbsp; AI/ML &nbsp;|&nbsp; Data Engineering</samp>
+| Software Engineering | AI / ML | Data Engineering |
+| :-- | :-- | :-- |
+| Testing, code review, and code that stays readable as it grows | Starting from the fundamentals of how models learn | Pipelines, data modeling, and moving data between systems |
 
 ### GitHub Stats
 
@@ -49,6 +63,11 @@ I build across software and hardware, from embedded firmware to web and desktop 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&langs_count=6&hide_border=true&border_radius=10&custom_title=Most-used%20languages&bg_color=F8FAFC&title_color=0E7490&text_color=0F172A" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeedp&layout=compact&langs_count=6&hide_border=true&border_radius=10&custom_title=Most-used%20languages&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0" height="145" alt="Most-used languages across repositories owned by jeedp." />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <img src="./assets/divider-dark.svg" width="100%" alt="" />
 </picture>
 
 <div align="center">
