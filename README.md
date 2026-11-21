@@ -62,9 +62,9 @@ and every project leaves me with something new I want to understand.
 
 ### Currently Exploring
 
-| Software Engineering | AI / ML | Data Engineering |
-| :-- | :-- | :-- |
-| Testing, code review, and code that stays readable as it grows | Starting from the fundamentals of how models learn | Pipelines, data modeling, and moving data between systems |
+- Software Engineering
+- AI / ML
+- Data Engineering
 
 ### GitHub Stats
 
@@ -78,6 +78,11 @@ and every project leaves me with something new I want to understand.
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=F8FAFC&ring=0E7490&fire=0E7490&currStreakLabel=0E7490&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&stroke=E2E8F0" />
+  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
   <img src="./assets/divider-dark.svg" width="100%" alt="" />
 </picture>
@@ -86,8 +91,8 @@ and every project leaves me with something new I want to understand.
 
 ### Connect
 
-<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzIyRDNFRSIgZD0iTTQuOTggMy41QzQuOTggNC44OCAzLjg3IDYgMi41IDZTMCA0Ljg4IDAgMy41IDEuMTIgMSAyLjUgMXMyLjQ4IDEuMTIgMi40OCAyLjV6TS41IDhoNHYxNmgtNFY4em03IDBoMy44djIuMmguMDZjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzcgMi42NSA0Ljc3IDYuMVYyNGgtNHYtNy44YzAtMS44Ni0uMDMtNC4yNS0yLjYtNC4yNS0yLjYgMC0zIDIuMDMtMyA0LjEyVjI0aC00Vjh6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-<a href="https://jeedp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
-<a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTQuOTggMy41QzQuOTggNC44OCAzLjg3IDYgMi41IDZTMCA0Ljg4IDAgMy41IDEuMTIgMSAyLjUgMXMyLjQ4IDEuMTIgMi40OCAyLjV6TS41IDhoNHYxNmgtNFY4em03IDBoMy44djIuMmguMDZjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzcgMi42NSA0Ljc3IDYuMVYyNGgtNHYtNy44YzAtMS44Ni0uMDMtNC4yNS0yLjYtNC4yNS0yLjYgMC0zIDIuMDMtMyA0LjEyVjI0aC00Vjh6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+<a href="https://jeedp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:jedpadro@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
