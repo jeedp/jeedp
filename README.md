@@ -47,10 +47,7 @@ I learn by building, from embedded firmware to web and desktop apps, and each pr
 - AI / ML
 - Data Engineering
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <img src="./assets/divider-dark.svg" width="100%" alt="" />
-</picture>
+---
 
 ### 📊 Stats
 
@@ -61,11 +58,6 @@ I learn by building, from embedded firmware to web and desktop apps, and each pr
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=F8FAFC&ring=EA580C&fire=EA580C&currStreakLabel=C2410C&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&stroke=E2E8F0" />
   <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="120" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <img src="./assets/divider-dark.svg" width="100%" alt="" />
 </picture>
 
 <div align="center">
