@@ -12,7 +12,7 @@ and each project shows me what to learn next.
 
 &nbsp;
 
-<img src="https://img.shields.io/badge/status-open%20to%20internships-A3E635?style=flat-square&labelColor=0F172A" alt="Status: open to internships" />
+<img src="https://img.shields.io/badge/status-open%20to%20internships-2EA043?style=flat-square&labelColor=0F172A" alt="Status: open to internships" />
 
 &nbsp;
 
@@ -51,8 +51,8 @@ and each project shows me what to learn next.
 ### 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&bg_color=F8FAFC&text_color=0F172A&icon_color=B45309&ring_color=B45309" />
-  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&hide=issues%2Ccontribs&hide_border=true&border_radius=10&bg_color=0F172A&text_color=E2E8F0&icon_color=FBBF24&ring_color=FBBF24" height="145" alt="GitHub stats for jeedp: rank, stars, commits in the last year, and pull requests." />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=F8FAFC&text_color=0F172A&icon_color=B45309&ring_color=B45309" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0F172A&text_color=E2E8F0&icon_color=FBBF24&ring_color=FBBF24" height="145" alt="GitHub stats for jeedp: rank, stars earned, total commits, pull requests, issues, and repositories contributed to in the last year." />
 </picture>
 
 <picture>
