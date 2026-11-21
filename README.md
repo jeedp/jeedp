@@ -34,14 +34,26 @@ and every project leaves me with something new I want to understand.
 
 ### Projects
 
-<a href="https://github.com/cymrcsm/slsu-map-navigation"><img src="./assets/card-wayfinding-dark.svg#gh-dark-mode-only" width="100%" alt="SLSU Campus Wayfinding System: offline touchscreen kiosk for finding buildings and offices on campus. Thesis, team of two, in progress. JavaScript, Node.js, SQLite, Raspberry Pi." /></a>
-<a href="https://github.com/cymrcsm/slsu-map-navigation"><img src="./assets/card-wayfinding-light.svg#gh-light-mode-only" width="100%" alt="SLSU Campus Wayfinding System: offline touchscreen kiosk for finding buildings and offices on campus. Thesis, team of two, in progress. JavaScript, Node.js, SQLite, Raspberry Pi." /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-wayfinding-light.svg" />
+  <img src="./assets/card-wayfinding-dark.svg" width="100%" alt="SLSU Campus Wayfinding System: offline touchscreen kiosk for finding buildings and offices on campus. Thesis, team of two, in progress. JavaScript, Node.js, SQLite, Raspberry Pi." />
+</picture>
 
-<a href="https://github.com/jeedp/Smart-Parking-Gate-System"><img src="./assets/card-parking-dark.svg#gh-dark-mode-only" width="100%" alt="Smart Parking Gate System: RFID parking gate with live slot tracking and a web dashboard. IoT, solo. C++, ESP32, FreeRTOS, Firebase." /></a>
-<a href="https://github.com/jeedp/Smart-Parking-Gate-System"><img src="./assets/card-parking-light.svg#gh-light-mode-only" width="100%" alt="Smart Parking Gate System: RFID parking gate with live slot tracking and a web dashboard. IoT, solo. C++, ESP32, FreeRTOS, Firebase." /></a>
+<sub><a href="https://github.com/cymrcsm/slsu-map-navigation">View repository →</a></sub>
 
-<a href="https://github.com/jeedp/TrainSMARTApp"><img src="./assets/card-trainsmart-dark.svg#gh-dark-mode-only" width="100%" alt="TrainSMART: desktop app for workout templates, tracking, and body measurements. Desktop, solo. C#, .NET Framework, SQL Server." /></a>
-<a href="https://github.com/jeedp/TrainSMARTApp"><img src="./assets/card-trainsmart-light.svg#gh-light-mode-only" width="100%" alt="TrainSMART: desktop app for workout templates, tracking, and body measurements. Desktop, solo. C#, .NET Framework, SQL Server." /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-parking-light.svg" />
+  <img src="./assets/card-parking-dark.svg" width="100%" alt="Smart Parking Gate System: RFID parking gate with live slot tracking and a web dashboard. IoT, solo. C++, ESP32, FreeRTOS, Firebase." />
+</picture>
+
+<sub><a href="https://github.com/jeedp/Smart-Parking-Gate-System">View repository →</a></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-trainsmart-light.svg" />
+  <img src="./assets/card-trainsmart-dark.svg" width="100%" alt="TrainSMART: desktop app for workout templates, tracking, and body measurements. Desktop, solo. C#, .NET Framework, SQL Server." />
+</picture>
+
+<sub><a href="https://github.com/jeedp/TrainSMARTApp">View repository →</a></sub>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
