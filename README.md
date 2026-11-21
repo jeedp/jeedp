@@ -32,6 +32,8 @@ and every project leaves me with something new I want to understand.
   </tr>
 </table>
 
+<!--
+
 ### Projects
 
 <picture>
@@ -59,6 +61,8 @@ and every project leaves me with something new I want to understand.
   <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
   <img src="./assets/divider-dark.svg" width="100%" alt="" />
 </picture>
+
+-->
 
 ### Currently Exploring
 
