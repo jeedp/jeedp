@@ -17,7 +17,7 @@ and next it's pulling me toward AI/ML and data engineering.
 
 &nbsp;
 
-<img src="https://img.shields.io/badge/status-open%20to%20internships-2EA043?style=flat-square&labelColor=0F172A" alt="Status: open to internships" />
+<img src="https://img.shields.io/badge/status-open%20to%20internships-2EA043?style=flat-square&labelColor=15171D" alt="Status: open to internships" />
 
 &nbsp;
 
@@ -39,10 +39,10 @@ and next it's pulling me toward AI/ML and data engineering.
 <table>
   <tr>
     <td valign="top"><sub><b>LANGUAGES</b></sub><br /><img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,php&theme=dark" height="36" alt="C, C++, C#, Python, JavaScript, PHP" /></td>
-    <td valign="top"><sub><b>FRAMEWORKS &amp; DATABASES</b></sub><br /><img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,firebase&theme=dark" height="36" alt="Laravel, Node.js, MySQL, Firebase" /> <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square" alt="SQL Server" /></td>
+    <td valign="top"><sub><b>FRAMEWORKS &amp; DATABASES</b></sub><br /><img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,firebase&theme=dark" height="36" alt="Laravel, Node.js, MySQL, Firebase" /> <img src="https://img.shields.io/badge/SQL%20Server-15171D?style=flat-square" alt="SQL Server" /></td>
   </tr>
   <tr>
-    <td valign="top"><sub><b>EMBEDDED SYSTEMS</b></sub><br /><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="36" alt="Arduino, Raspberry Pi" /> <img src="https://img.shields.io/badge/ESP32-0F172A?style=flat-square&logo=espressif&logoColor=22D3EE" alt="ESP32" /></td>
+    <td valign="top"><sub><b>EMBEDDED SYSTEMS</b></sub><br /><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" height="36" alt="Arduino, Raspberry Pi" /> <img src="https://img.shields.io/badge/ESP32-15171D?style=flat-square&logo=espressif&logoColor=FF8A1F" alt="ESP32" /></td>
     <td valign="top"><sub><b>TOOLS &amp; PLATFORMS</b></sub><br /><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="36" alt="Git, GitHub, VS Code" /></td>
   </tr>
 </table>
@@ -68,13 +68,13 @@ and next it's pulling me toward AI/ML and data engineering.
 ### 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=F8FAFC&text_color=0F172A&icon_color=B45309&ring_color=B45309" />
-  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0F172A&text_color=E2E8F0&icon_color=FBBF24&ring_color=FBBF24" height="145" alt="GitHub stats for jeedp: rank, stars earned, total commits, pull requests, issues, and repositories contributed to in the last year." />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=FFFFFF&text_color=17181C&icon_color=D95F00&ring_color=D95F00" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=15171D&text_color=ECEBE6&icon_color=FF8A1F&ring_color=FF8A1F" height="145" alt="GitHub stats for jeedp: rank, stars earned, total commits, pull requests, issues, and repositories contributed to in the last year." />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=F8FAFC&ring=EA580C&fire=EA580C&currStreakLabel=C2410C&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&stroke=E2E8F0" />
-  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=FFFFFF&ring=D95F00&fire=D95F00&currStreakLabel=D95F00&sideLabels=17181C&currStreakNum=121317&sideNums=17181C&dates=666C78&stroke=D9D4CB" />
+  <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=15171D&ring=FF8A1F&fire=FF8A1F&currStreakLabel=FF8A1F&sideLabels=ECEBE6&currStreakNum=F4F2ED&sideNums=ECEBE6&dates=8F95A3&stroke=2C3039" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
 </picture>
 
 
