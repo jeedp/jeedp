@@ -21,6 +21,8 @@ and next it's pulling me toward AI/ML and data engineering.
 
 &nbsp;
 
+
+
 <p>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/accent-light.svg" />
@@ -30,8 +32,6 @@ and next it's pulling me toward AI/ML and data engineering.
 
 </div>
 
-
-<br>
 
 
 ### 🛠️ Tech Stack
@@ -48,7 +48,9 @@ and next it's pulling me toward AI/ML and data engineering.
 </table>
 
 
+
 <br>
+
 
 
 ### 🔭 Currently Exploring
@@ -58,7 +60,9 @@ and next it's pulling me toward AI/ML and data engineering.
 - Data Engineering
 
 
+
 <br>
+
 
 
 ### 📊 Stats
@@ -72,6 +76,7 @@ and next it's pulling me toward AI/ML and data engineering.
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=F8FAFC&ring=EA580C&fire=EA580C&currStreakLabel=C2410C&sideLabels=0F172A&currStreakNum=0F172A&sideNums=0F172A&dates=475569&stroke=E2E8F0" />
   <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
 </picture>
+
 
 
 <br>
