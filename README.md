@@ -68,8 +68,8 @@ and next it's pulling me toward AI/ML and data engineering.
 ### 📊 Stats
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=FFFFFF&text_color=17181C&icon_color=D95F00&ring_color=D95F00" />
-  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=15171D&text_color=ECEBE6&icon_color=FF8A1F&ring_color=FF8A1F" height="145" alt="GitHub stats for jeedp: rank, stars earned, total commits, pull requests, issues, and repositories contributed to in the last year." />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&v=2&hide_border=true&border_radius=10&bg_color=FFFFFF&text_color=17181C&icon_color=D95F00&ring_color=D95F00" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&v=2&hide_border=true&border_radius=10&bg_color=15171D&text_color=ECEBE6&icon_color=FF8A1F&ring_color=FF8A1F" height="145" alt="GitHub stats for jeedp: rank, stars earned, total commits, pull requests, issues, and repositories contributed to in the last year." />
 </picture>
 
 <picture>
