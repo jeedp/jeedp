@@ -7,6 +7,8 @@
 <span><b>🎓&nbsp;BS&nbsp;Computer&nbsp;Engineering&nbsp;·&nbsp;Senior</b></span> &emsp;|&emsp; 
 <span><b>🏫&nbsp;Southern&nbsp;Leyte&nbsp;State&nbsp;University</b></span>
 
+&nbsp;
+
 Most of what I know, I learned by picking a real problem,<br />
 then figuring out the hardware and software it takes to solve it.
 
@@ -28,7 +30,9 @@ and next it's pulling me toward AI/ML and data engineering.
 
 </div>
 
-<!-- <samp>Building ideas into practical technology.</samp> -->
+
+<br>
+
 
 ### 🛠️ Tech Stack
 
@@ -43,13 +47,19 @@ and next it's pulling me toward AI/ML and data engineering.
   </tr>
 </table>
 
+
+<br>
+
+
 ### 🔭 Currently Exploring
 
 - Software Engineering
 - AI / ML
 - Data Engineering
 
----
+
+<br>
+
 
 ### 📊 Stats
 
@@ -63,9 +73,16 @@ and next it's pulling me toward AI/ML and data engineering.
   <img src="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=0F172A&ring=FB923C&fire=FB923C&currStreakLabel=FB923C&sideLabels=E2E8F0&currStreakNum=F8FAFC&sideNums=E2E8F0&dates=94A3B8&stroke=1E293B" height="145" alt="GitHub contribution streak for jeedp: total contributions, current streak, and longest streak." />
 </picture>
 
-<div align="center">
 
+<br>
+
+<!--
 ### 🤝 Connect
+-->
+
+<br><br>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/jed-padro-ba9563299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTQuOTggMy41QzQuOTggNC44OCAzLjg3IDYgMi41IDZTMCA0Ljg4IDAgMy41IDEuMTIgMSAyLjUgMXMyLjQ4IDEuMTIgMi40OCAyLjV6TS41IDhoNHYxNmgtNFY4em03IDBoMy44djIuMmguMDZjLjUzLTEgMS44My0yLjIgMy43Ny0yLjIgNC4wMyAwIDQuNzcgMi42NSA0Ljc3IDYuMVYyNGgtNHYtNy44YzAtMS44Ni0uMDMtNC4yNS0yLjYtNC4yNS0yLjYgMC0zIDIuMDMtMyA0LjEyVjI0aC00Vjh6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="https://jeedp.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
