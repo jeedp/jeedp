@@ -2,10 +2,10 @@
 
 <div align="center">
 
-# Hi, I'm Jed Padro
-
-<span><b>🎓&nbsp;BS&nbsp;Computer&nbsp;Engineering&nbsp;·&nbsp;Senior</b></span> &emsp;|&emsp; 
-<span><b>🏫&nbsp;Southern&nbsp;Leyte&nbsp;State&nbsp;University</b></span>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-dark.svg" width="100%" alt="Jed Padro, BS Computer Engineering, senior, Southern Leyte State University. Animated title card: a camera's autofocus hunts through notifications, open tabs and to-dos, then locks onto the name." />
+</picture>
 
 &nbsp;
 
