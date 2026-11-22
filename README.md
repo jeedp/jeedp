@@ -7,8 +7,8 @@
 <span><b>🎓&nbsp;BS&nbsp;Computer&nbsp;Engineering&nbsp;·&nbsp;Senior</b></span> &emsp;|&emsp; 
 <span><b>🏫&nbsp;Southern&nbsp;Leyte&nbsp;State&nbsp;University</b></span>
 
-I learn by building, from embedded firmware to web and desktop apps,<br />
-and each project shows me what to learn next.
+Based in the Philippines and always learning, I build projects<br />
+across embedded systems, web, and desktop to understand how things work.
 
 &nbsp;
 
