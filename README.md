@@ -7,8 +7,11 @@
 <span><b>🎓&nbsp;BS&nbsp;Computer&nbsp;Engineering&nbsp;·&nbsp;Senior</b></span> &emsp;|&emsp; 
 <span><b>🏫&nbsp;Southern&nbsp;Leyte&nbsp;State&nbsp;University</b></span>
 
-Based in the Philippines and always learning, I build projects<br />
-across embedded systems, web, and desktop to understand how things work.
+Most of what I know, I learned by picking a real problem,<br />
+then figuring out the hardware and software it takes to solve it.
+
+It's led me from desktop software to microcontrollers and single-board computers,<br />
+and next it's pulling me toward AI/ML and data engineering.
 
 &nbsp;
 
