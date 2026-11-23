@@ -10,7 +10,7 @@
 &nbsp;
 
 Most of what I know, I learned by picking a real problem,<br />
-then figuring out the hardware and software it takes to solve it.
+then figuring out the tools and technologies it takes to solve it.
 
 It's led me from desktop software to microcontrollers and single-board computers,<br />
 and next it's pulling me toward AI/ML and data engineering.
