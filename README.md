@@ -1,36 +1,49 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jeedp&color=0D1017)
 
+# 👋 Hey there, I'm
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img src="./assets/hero-dark.svg" width="100%" alt="Jed Padro, Computer Engineering, Southern Leyte State University. Animated title card: a camera's autofocus hunts through notifications, open tabs and to-dos, then locks onto the name." />
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" width="100%" alt="Jed Padro, Computer Engineering, Southern Leyte State University. Animated title card: a camera's autofocus hunts through notifications, open tabs and to-dos, then locks onto the name." />
-</picture>
+
 
 &nbsp;
 
-Most of what I know, I learned by picking a real problem,<br />
-then figuring out the tools and technologies it takes to solve it.
+<div align="center">
+  I learn by building, experimenting, and exploring how things work under the hood.<br />
+  I'm interested in discovering different technologies and 
+  putting them together to solve practical problems.
+  
+  <!--
+  Most of what I know, I learned by picking a real problem,<br />
+  then figuring out the tools and technologies it takes to solve it.
+  
+  It's led me from desktop software to microcontrollers and single-board computers,<br />
+  and next it's pulling me toward AI/ML and data engineering.
+  -->
+  
+  &nbsp;
 
-It's led me from desktop software to microcontrollers and single-board computers,<br />
-and next it's pulling me toward AI/ML and data engineering.
+  <img src="https://img.shields.io/badge/status-open%20to%20internships-2EA043?style=flat-square&labelColor=15171D" alt="Status: open to internships" />
+</div>
+
+
+
+<hr>
 
 &nbsp;
 
-<img src="https://img.shields.io/badge/status-open%20to%20internships-2EA043?style=flat-square&labelColor=15171D" alt="Status: open to internships" />
-
-&nbsp;
-
-
-
-<p>
+<!-- <p>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/accent-light.svg" />
   <img src="./assets/accent-dark.svg" width="420" alt="" />
 </picture>
-</p>
+</p> -->
 
-</div>
+<!-- </div> -->
 
 
 
@@ -67,10 +80,10 @@ and next it's pulling me toward AI/ML and data engineering.
 
 ### 📊 Stats
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&v=2&hide_border=true&border_radius=10&bg_color=FFFFFF&text_color=17181C&icon_color=D95F00&ring_color=D95F00" />
   <img src="https://github-stats-extended.vercel.app/api?username=jeedp&show_icons=true&hide_rank=false&hide_title=true&include_all_commits=true&v=2&hide_border=true&border_radius=10&bg_color=15171D&text_color=ECEBE6&icon_color=FF8A1F&ring_color=FF8A1F" height="145" alt="GitHub stats for jeedp: rank, stars earned, total commits, pull requests, issues, and repositories contributed to in the last year." />
-</picture>
+</picture> -->
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jeedp&hide_border=true&border_radius=10&background=FFFFFF&ring=D95F00&fire=D95F00&currStreakLabel=D95F00&sideLabels=17181C&currStreakNum=121317&sideNums=17181C&dates=666C78&stroke=D9D4CB" />
@@ -85,7 +98,9 @@ and next it's pulling me toward AI/ML and data engineering.
 ### 🤝 Connect
 -->
 
-<br><br>
+<br>
+<hr>
+<br>
 
 <div align="center">
 
